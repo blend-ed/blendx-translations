@@ -353,6 +353,7 @@ jobs:
           repository: ${{ github.repository_owner }}/${{ matrix.repo }}
           ref: ${{ github.event.inputs.ref }}
           path: translations/${{ matrix.repo }}
+          token: ${{ secrets.EDX_TRANSIFEX_BOT_GITHUB_TOKEN }}
 
       # Sets up node/npm
       - name: setup node
