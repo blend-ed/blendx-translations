@@ -1,0 +1,8 @@
+{
+  "staff.recent-activity.days-ago": "{days} days ago",
+  "staff.recent-activity.hours-ago": "{hours} hours ago",
+  "staff.recent-activity.minutes-ago": "{minutes} minutes ago",
+  "staff.recent-activity.seconds-ago": "{seconds} seconds ago",
+  "staff.recent-activity.title": "Recent Activity",
+  "staff.recent-activity.see-feed": "See my feed"
+}

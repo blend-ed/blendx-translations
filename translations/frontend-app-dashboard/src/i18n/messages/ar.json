@@ -1,0 +1,19 @@
+{
+  "dashboard.page.home": "الرئيسية",
+  "dashboard.page.discover": "استكشف",
+  "dashboard.page.discover.all": "الكل",
+  "dashboard.page.discover.wishlist": "المفضلة",
+  "dashboard.page.wishlist": "المفضلة",
+  "dashboard.page.popular": "الأكثر شعبية",
+  "dashboard.page.progress": "التقدم",
+  "dashboard.page.updates": "التحديثات",
+  "dashboard.page.recommended-courses": "الكورسات الموصى بها",
+  "dashboard.page.recommended-programs": "البرامج الموصى بها",
+  "dashboard.page.settings": "الإعدادات",
+  "dashboard.page.help-support": "المساعدة والدعم",
+  "dashboard.page.logout": "تسجيل الخروج",
+  "dashboard.page.schedule": "الجدول",
+  "dashboard.page.notifications": "التنبيهات",
+  "dashboard.page.support": "الدعم",
+  "dashboard.page.my-learning": "التعلم الخاص بي"
+}

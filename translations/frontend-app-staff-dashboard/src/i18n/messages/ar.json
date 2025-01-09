@@ -1,0 +1,8 @@
+{
+  "staff.recent-activity.days-ago": "{days} يوم مضت",
+  "staff.recent-activity.hours-ago": "{hours} ساعات مضت",
+  "staff.recent-activity.minutes-ago": "{minutes} دقائق مضت",
+  "staff.recent-activity.seconds-ago": "{seconds} ثواني مضت",
+  "staff.recent-activity.title": "الأنشطة الأخيرة",
+  "staff.recent-activity.see-feed": "عرض أنشطتي"
+}
