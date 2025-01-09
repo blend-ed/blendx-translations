@@ -68,7 +68,6 @@ jobs:
               'frontend-app-authn',
               'frontend-app-communications',
               'frontend-app-course-authoring',
-              'frontend-app-dashboard',
               'frontend-app-discussions',
               'frontend-app-ecommerce',
               'frontend-app-enterprise-public-catalog',
@@ -76,13 +75,14 @@ jobs:
               'frontend-app-learner-dashboard',
               'frontend-app-learner-record',
               'frontend-app-learning',
+              'frontend-app-dashboard',
+              'frontend-app-staff-dashboard',
               'frontend-app-library-authoring',
               'frontend-app-ora',
               'frontend-app-ora-grading',
               'frontend-app-payment',
               'frontend-app-profile',
               'frontend-app-program-console',
-              'frontend-app-staff-dashboard',
               'frontend-app-support-tools',
               'frontend-component-footer',
               'frontend-component-header',
@@ -207,6 +207,7 @@ jobs:
           repository: ${{ github.repository_owner }}/${{ matrix.repo }}
           ref: ${{ github.event.inputs.ref }}
           path: translations/${{ matrix.repo }}
+          token: ${{ secrets.EDX_TRANSIFEX_BOT_GITHUB_TOKEN }}
 
       - name: prepare the environment with edx-platform specific changes
         if: matrix.repo == 'edx-platform'
@@ -361,11 +362,18 @@ jobs:
         with:
           node-version: 16
 
+      # Add npm configuration for blend-ed packages
+      - name: configure npm for blend-ed packages
+        run: |
+          echo "@blend-ed:registry=https://npm.pkg.github.com" >> ~/.npmrc
+          echo "//npm.pkg.github.com/:_authToken=${{ secrets.EDX_TRANSIFEX_BOT_GITHUB_TOKEN }}" >> ~/.npmrc
+
       # Extracts the translation source files
       - name: extract translation source files
         run: |
           cd translations/${{ matrix.repo }}
           make extract_translations
+
       # git adds only the translation source files, found in src/i18n/transifex_input.json
       - name: git add the translation source files
         id: add-sources
@@ -421,6 +429,7 @@ jobs:
           repository: ${{ github.repository_owner }}/${{ matrix.repository_config.repo }}
           ref: ${{ github.event.inputs.ref || matrix.repository_config.ref }}
           path: translations/${{ matrix.repository_config.repo }}
+          token: ${{ secrets.EDX_TRANSIFEX_BOT_GITHUB_TOKEN }}
 
       # Sets up Python
       - name: setup python
