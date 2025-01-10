@@ -148,6 +148,20 @@ git:
     source_file: translations/frontend-app-course-authoring/src/i18n/transifex_input.json
     translation_files_expression: 'translations/frontend-app-course-authoring/src/i18n/messages/<lang>.json'
 
+  # frontend-app-staff-dashboard
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_language: en
+    source_file: translations/frontend-app-staff-dashboard/src/i18n/transifex_input.json
+    translation_files_expression: 'translations/frontend-app-staff-dashboard/src/i18n/messages/<lang>.json'
+
+  # frontend-app-dashboard
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_language: en
+    source_file: translations/frontend-app-dashboard/src/i18n/transifex_input.json
+    translation_files_expression: 'translations/frontend-app-dashboard/src/i18n/messages/<lang>.json'
+
   # frontend-app-discussions
   - filter_type: file
     file_format: KEYVALUEJSON
