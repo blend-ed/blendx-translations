@@ -3,17 +3,12 @@
   "dashboard.page.discover": "Discover",
   "dashboard.page.discover.all": "All",
   "dashboard.page.discover.wishlist": "Wishlist",
-  "dashboard.page.wishlist": "Wishlist",
-  "dashboard.page.popular": "Popular",
+  "dashboard.page.my-learning": "My Learning",
   "dashboard.page.progress": "Progress",
-  "dashboard.page.updates": "Updates",
-  "dashboard.page.recommended-courses": "Recommended Courses",
-  "dashboard.page.recommended-programs": "Recommended Programs",
-  "dashboard.page.settings": "Settings",
-  "dashboard.page.help-support": "Help & Support",
-  "dashboard.page.logout": "Log out",
   "dashboard.page.schedule": "Schedule",
   "dashboard.page.notifications": "Notifications",
   "dashboard.page.support": "Support",
-  "dashboard.page.my-learning": "My Learning"
+  "dashboard.page.settings": "Settings",
+  "dashboard.page.help-support": "Help & Support",
+  "dashboard.page.logout": "Logout"
 }
