@@ -467,5 +467,20 @@
   "learn.sequence.navigation.next.button": "Siguiente",
   "learn.sequence.navigation.next.up.button": "A continuación: {title}",
   "learn.sequence.navigation.previous.button": "Anterior",
-  "discussions.sidebar.open.button": "Mostrar la bandeja de mensajes del foro"
+  "discussions.sidebar.open.button": "Mostrar la bandeja de mensajes del foro",
+  "masquerade-widget.dropdown.label": "Ver este curso como",
+  "masquerade-widget.dropdown.specificStudentPlaceholder": "Estudiante específico...",
+  "masquerade-widget.unableToGetMasqueradeOptions": "No se pueden obtener las opciones de impersonación",
+  "masquerade-widget.viewCourseIn": "Ver este curso en",
+  "masquerade-widget.studio": "Studio",
+  "masquerade-widget.insights": "Insights",
+  "courseOutline.loading": "Cargando...",
+  "courseOutline.toggle.button": "Mostrar el esquema del curso",
+  "courseOutline.tray.title": "Esquema del curso",
+  "courseOutline.completedUnit": "Unidad completada",
+  "courseOutline.incompleteUnit": "Unidad incompleta",
+  "courseOutline.hiddenUnit": "Oculto en el esquema del curso, accesible mediante un enlace",
+  "courseOutline.hiddenSequenceLink": "Las subsecciones no son navegables entre sí, solo se pueden acceder a través de su enlace.",
+  "courseOutline.lockCourseOutline": "Bloquear a la página",
+  "courseOutline.unlockCourseOutline": "Desbloquear"
 }
