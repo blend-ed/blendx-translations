@@ -1,5 +1,6 @@
 {
   "profile.page.title": "Perfil | {siteName}",
+  "profile.age.cannotShare": "",
   "profile.age.details": "Para compartir su perfil con otros {siteName} estudiantes, debe confirmar que tiene más de 13 años.",
   "profile.age.set.date": "Indica tu fecha de nacimiento",
   "profile.datejoined.member.since": "Miembro desde {año}",
@@ -53,5 +54,15 @@
   "profile.formcontrols.button.saving": "Guardando",
   "profile.formcontrols.button.saved": "Guardado",
   "profile.visibility.who.just.me": "Solo yo",
-  "profile.visibility.who.everyone": "Todos en {siteName}"
+  "profile.visibility.who.everyone": "Todos en {siteName}",
+  "profile.progressCard.ongoingCourses": "Cursos en curso",
+  "profile.progressCard.completedCourses": "Cursos completados",
+  "profile.progressCard.completed": "Completado",
+  "profile.progressCard.bestStreak": "Mejor racha",
+  "profile.accountSettings": "Configuración de la cuenta",
+  "profile.tabs.certificates": "Certificados",
+  "profile.tabs.badges": "Medallas",
+  "profile.tabs.purchases": "Compras",
+  "profile.certificates.noCertificates": "No tienes ningún certificado aún.",
+  "profile.badges.noBadges": "No tienes ninguna medalla aún."
 }
