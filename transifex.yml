@@ -162,6 +162,20 @@ git:
     source_file: translations/frontend-app-dashboard/src/i18n/transifex_input.json
     translation_files_expression: 'translations/frontend-app-dashboard/src/i18n/messages/<lang>.json'
 
+  # blendx-ui
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_language: en
+    source_file: translations/blendx-ui/src/i18n/transifex_input.json
+    translation_files_expression: 'translations/blendx-ui/src/i18n/messages/<lang>.json'
+    
+  # blendx-platform
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_language: en
+    source_file: translations/blendx-platform/src/i18n/transifex_input.json
+    translation_files_expression: 'translations/blendx-platform/src/i18n/messages/<lang>.json'
+
   # frontend-app-discussions
   - filter_type: file
     file_format: KEYVALUEJSON
