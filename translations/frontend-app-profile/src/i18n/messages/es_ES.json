@@ -64,5 +64,6 @@
   "profile.tabs.badges": "Medallas",
   "profile.tabs.purchases": "Compras",
   "profile.certificates.noCertificates": "No tienes ningún certificado aún.",
-  "profile.badges.noBadges": "No tienes ninguna medalla aún."
+  "profile.badges.noBadges": "No tienes ninguna medalla aún.",
+  "profile.title": "Perfil"
 }
