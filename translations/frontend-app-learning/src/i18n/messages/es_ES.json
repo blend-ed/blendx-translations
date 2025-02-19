@@ -204,7 +204,7 @@
   "tours.upgradeCheckpoint.title": "Desbloquea tu curso",
   "tours.weeklyGoalsCheckpoint.body": "Establecer un objetivo aumenta la probabilidad de completar el curso.",
   "tours.weeklyGoalsCheckpoint.title": "Establecer un objetivo del curso",
-  "tours.newUserModal.title": "¡{welcome} al curso de {siteName}!",
+  "tours.newUserModal.title": "Al-Powered LMS que simplifica el aprendizaje con una experiencia de aprendizaje de clase mundial",
   "learning.effortEstimation.combinedEstimate": "{minutes} + {activities}",
   "learning.effortEstimation.activities": "{activityCount, plural, one {# actividades} many {# actividades} other {# actividades}}",
   "learning.effortEstimation.minutesAbbreviated": "{minuteCount, plural, one {# min} many {# min} other {# min}}",
