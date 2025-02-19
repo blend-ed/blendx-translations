@@ -65,5 +65,14 @@
   "profile.tabs.purchases": "Compras",
   "profile.certificates.noCertificates": "No tienes ningún certificado aún.",
   "profile.badges.noBadges": "No tienes ninguna medalla aún.",
-  "profile.title": "Perfil"
+  "profile.title": "Perfil",
+  "profile.tabs.purchases.item": "Elemento",
+  "profile.tabs.purchases.program": "Programa",
+  "profile.tabs.purchases.course": "Curso",
+  "profile.tabs.purchases.paymentId": "ID de pago",
+  "profile.tabs.purchases.price": "Precio",
+  "profile.tabs.purchases.status": "Estado",
+  "profile.tabs.purchases.gateway": "Gateway",
+  "profile.tabs.purchases.noTransactions": "No se encontraron transacciones",
+  "profile.ageVerification": "Confirma que tienes más de 13 años para añadir una foto de perfil"
 }
