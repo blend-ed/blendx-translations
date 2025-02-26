@@ -162,5 +162,9 @@
   "pages.wishlist.wishlistEmpty": "Tu lista de deseos está vacía",
   "pages.wishlist.ztoa": "Z-A",
   "utils.courseDataParser.hours": "horas",
-  "utils.courseDataParser.notSpecified": "No especificado"
+  "utils.courseDataParser.notSpecified": "No especificado",
+  "pages.calendar.events": "Eventos",
+  "pages.calendar.noEventsToday": "No hay eventos hoy",
+  "pages.calendar.noEventsUpcoming": "No hay eventos próximos",
+  "pages.calendar.today": "Hoy"
 }

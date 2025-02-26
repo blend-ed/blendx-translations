@@ -153,5 +153,9 @@
   "pages.calendar.upcoming": "القادمة",
   "pages.calendar.relevent": "ذات الصلة",
   "pages.calendar.atoz": "أ إلى ي",
-  "pages.calendar.ztoa": "ي إلى أ"
+  "pages.calendar.ztoa": "ي إلى أ",
+  "pages.calendar.events": "الأحداث",
+  "pages.calendar.noEventsToday": "لا يوجد أحداث اليوم",
+  "pages.calendar.noEventsUpcoming": "لا يوجد أحداث قادمة",
+  "pages.calendar.today": "اليوم"
 }
