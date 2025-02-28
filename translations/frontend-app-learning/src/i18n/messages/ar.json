@@ -467,5 +467,20 @@
   "learn.sequence.navigation.next.button": "التالي",
   "learn.sequence.navigation.next.up.button": "التالي: {title}",
   "learn.sequence.navigation.previous.button": "السابق",
-  "discussions.sidebar.open.button": "إظهار دٌرج المناقشات"
+  "discussions.sidebar.open.button": "إظهار دٌرج المناقشات",
+  "masquerade-widget.dropdown.label": "عرض هذا المسابقة ك",
+  "masquerade-widget.dropdown.specificStudentPlaceholder": "الطالب المعين...",
+  "masquerade-widget.unableToGetMasqueradeOptions": "لا يمكن الحصول على خيارات التعيين",
+  "masquerade-widget.viewCourseIn": "عرض هذا المسابقة في",
+  "masquerade-widget.studio": "المكتبة",
+  "masquerade-widget.insights": "التحليلات",
+  "courseOutline.loading": "جاري التحميل...",
+  "courseOutline.toggle.button": "إظهار المخطط التفصيلي للمسابقة",
+  "courseOutline.tray.title": "المخطط التفصيلي للمسابقة",
+  "courseOutline.completedUnit": "الوحدة المكتملة",
+  "courseOutline.incompleteUnit": "الوحدة غير المكتملة",
+  "courseOutline.hiddenUnit": "مخفي في المخطط التفصيلي للمسابقة، يمكن الوصول إليه من خلال رابط",
+  "courseOutline.hiddenSequenceLink": "المتسلسلات غير المتجاورة، يمكن الوصول إليها من خلال روابط",
+  "courseOutline.lockCourseOutline": "إغلاق المخطط التفصيلي للمسابقة",
+  "courseOutline.unlockCourseOutline": "فتح المخطط التفصيلي للمسابقة"
 }
