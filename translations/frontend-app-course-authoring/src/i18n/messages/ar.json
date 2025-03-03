@@ -1556,5 +1556,8 @@
   "cohorts.drawer.learners.selected": "الطلاب المحددون: {count}",
   "cohorts.drawer.button.cancel": "إلغاء",
   "cohorts.drawer.button.save": "حفظ التغييرات",
-  "cohorts.drawer.button.create": "إنشاء مجموعة"
+  "cohorts.drawer.button.create": "إنشاء مجموعة",
+  "details.section.courseVectorSettingsLabel":"توليد ناقل الدورة",
+  "details.section.courseVectorSettingsRegenerateLabel":"إعادة إنشاء ناقل الدورة التدريبية",
+  "details.section.courseVectorSettingsHelpText":"قم بإنشاء متجه الدورة التدريبية لهذه الدورة"
 }
