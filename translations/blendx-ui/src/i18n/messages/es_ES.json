@@ -39,5 +39,12 @@
   "SideNavbar.learner": "Aprendiz",
   "NotificationsMenu.notifications": "Notificaciones",
   "NotificationsMenu.noNotifications": "No hay notificaciones",
-  "NotificationsMenu.seeAll": "Ver todas"
+  "NotificationsMenu.seeAll": "Ver todas",
+  "BlendxCard.linkCopiedToClipboard": "Enlace copiado al portapapeles",
+  "BlendxCard.free": "Gratuito",
+  "BlendxCard.resume": "Reanudar",
+  "BlendxCard.edit": "Editar curso",
+  "BlendxCard.viewLive": "Ver en vivo",
+  "BlendxCard.noAccess": "Sin acceso",
+  "BlendxCard.estimatedTime": "Tiempo estimado"
 }
