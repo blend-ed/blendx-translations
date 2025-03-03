@@ -632,6 +632,7 @@
   "notifications.admin": "Administrador",
   "notifications.notificationType": "Tipo de notificación",
   "staff.email": "Correo electrónico",
+   "program.single.enrollment.emailColumn": "Correo electrónico",
   "staff.joined": "Unido",
   "staff.instructor": "Instructor",
   "staff.features.payments": "Pagos",
@@ -647,5 +648,8 @@
   "staff.features.programCreation": "Creación de programas",
   "staff.features.programCreation.description": "Permite crear programas",
   "users.drawer.addUser.tooltip": "Añadir usuarios directamente a tu organización",
-  "users.drawer.invite.tooltip": "Enviar correos electrónicos a los usuarios para invitarlos a unirse a tu organización"
+  "users.drawer.invite.tooltip": "Enviar correos electrónicos a los usuarios para invitarlos a unirse a tu organización",
+  "program.single.enrollment.nameColumn": "Nombre",
+  "program.single.enrollment.usernameColumn": "Nombre de usuario",
+  "program.single.enrollment.searchPlaceholder": "Buscar ...",
 }
