@@ -651,5 +651,5 @@
   "users.drawer.invite.tooltip": "Enviar correos electrónicos a los usuarios para invitarlos a unirse a tu organización",
   "program.single.enrollment.nameColumn": "Nombre",
   "program.single.enrollment.usernameColumn": "Nombre de usuario",
-  "program.single.enrollment.searchPlaceholder": "Buscar ...",
+  "program.single.enrollment.searchPlaceholder": "Buscar ..."
 }
