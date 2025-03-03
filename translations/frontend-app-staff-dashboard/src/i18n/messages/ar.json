@@ -570,6 +570,7 @@
   "program.single.enrollment.drawer.invalidEmailFormat": "صيغة بريد إلكتروني غير صالحة: {emails}",
   "program.single.team.addTeamMember": "إضافة عضو للفريق",
   "program.single.team.selectRole": "اختيار الدور",
+  "program.single.team.creator": "منشئ",
   "program.single.team.viewer": "مشاهد",
   "program.single.team.enroller": "مسجل",
   "program.single.team.editor": "محرر",

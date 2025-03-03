@@ -572,6 +572,7 @@
   "program.single.enrollment.drawer.invalidEmailFormat": "Formato de correo electrónico inválido: {emails}",
   "program.single.team.addTeamMember": "Añadir miembro del equipo",
   "program.single.team.selectRole": "Seleccionar rol",
+  "program.single.team.creator": "Creador",
   "program.single.team.viewer": "Visualizador",
   "program.single.team.enroller": "Inscribidor",
   "program.single.team.editor": "Editor",
