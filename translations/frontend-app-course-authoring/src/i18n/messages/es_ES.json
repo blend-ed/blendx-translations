@@ -1556,5 +1556,8 @@
   "cohorts.drawer.learners.selected": "Estudiantes seleccionados: {count}",
   "cohorts.drawer.button.cancel": "Cancelar",
   "cohorts.drawer.button.save": "Guardar cambios",
-  "cohorts.drawer.button.create": "Crear grupo"
+  "cohorts.drawer.button.create": "Crear grupo",
+  "details.section.courseVectorSettingsLabel":"Generar vector de curso",
+  "details.section.courseVectorSettingsRegenerateLabel":"Regenerar vector de curso",
+  "details.section.courseVectorSettingsHelpText":"Generate a course vector for this course" 
 }
