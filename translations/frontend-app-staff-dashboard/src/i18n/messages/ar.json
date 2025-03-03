@@ -645,5 +645,7 @@
   "notifications.title": "العنوان",
   "notifications.today": "اليوم",
   "organizations.create.header": "إنشاء مؤسسة",
-  "organizations.select.header": "اختيار مؤسسة"
+  "organizations.select.header": "اختيار مؤسسة",
+  "users.drawer.addUser.tooltip": "إضافة مستخدمين مباشرة إلى مؤسستك",
+  "users.drawer.invite.tooltip": "إرسال إشعارات بريدية للمستخدمين لدعوتهم إلى الانضمام إلى مؤسستك"
 }
