@@ -1557,7 +1557,9 @@
   "cohorts.drawer.button.cancel": "Cancelar",
   "cohorts.drawer.button.save": "Guardar cambios",
   "cohorts.drawer.button.create": "Crear grupo",
-  "details.section.courseVectorSettingsLabel":"Generar vector de curso",
-  "details.section.courseVectorSettingsRegenerateLabel":"Regenerar vector de curso",
-  "details.section.courseVectorSettingsHelpText":"Generate a course vector for this course" 
+  "details.section.courseVectorSettingsLabel":"Agregar datos del curso a la base de conocimientos",
+  "details.section.courseVectorSettingsRegenerateLabel":"Regenerar datos del curso para la base de conocimientos",
+  "details.section.courseVectorSettingsHelpText":"Agregue los datos de este curso a la base de conocimientos",
+  "details.section.generateCourseVectorToast":"Agregar datos vectoriales del curso a la base de conocimientos",
+  "details.section.regenerateCourseVectorToast":"Regeneración de datos vectoriales del curso para agregarlos a la base de conocimientos"
 }
