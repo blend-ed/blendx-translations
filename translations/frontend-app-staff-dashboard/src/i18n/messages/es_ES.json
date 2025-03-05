@@ -660,6 +660,7 @@
   "staff.features.aiCourseCreator.description": "Permite crear cursos con IA",
   "staff.features.programCreation": "Creación de programas",
   "staff.features.programCreation.description": "Permite crear programas",
+  "staff.features.paymentsGatewayTooltip": "Configurar la integración de Stripe en Configuración de la plataforma/Integraciones",
   "users.drawer.addUser.tooltip": "Añadir usuarios directamente a tu organización",
   "users.drawer.invite.tooltip": "Enviar correos electrónicos a los usuarios para invitarlos a unirse a tu organización",
   "program.single.enrollment.nameColumn": "Nombre",
@@ -670,5 +671,5 @@
   "support.blendxAdminBlocked": "Acceso de administrador bloqueado",
   "support.blendxAdminAllowed": "Acceso de administrador permitido",
   "support.blockBlendxAdmin": "Bloquear acceso de administrador",
-  "support.unblockBlendxAdmin": "Desbloquear acceso de administrador",
+  "support.unblockBlendxAdmin": "Desbloquear acceso de administrador"
 }

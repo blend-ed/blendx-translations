@@ -657,6 +657,7 @@
   "staff.features.aiCourseCreator.description": "يتيح إنشاء المساقات باستخدام الذكاء الاصطناعي",
   "staff.features.programCreation": "إنشاء البرامج",
   "staff.features.programCreation.description": "يتيح إنشاء البرامج",
+  "staff.features.paymentsGatewayTooltip": "تكوين تكامل Stripe في إعدادات/تكاملات المنصة",
   "notifications.sort": "ترتيب",
   "notifications.status": "الحالة",
   "notifications.title": "العنوان",
