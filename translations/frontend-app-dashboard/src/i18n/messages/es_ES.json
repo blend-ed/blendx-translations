@@ -166,5 +166,20 @@
   "pages.calendar.events": "Eventos",
   "pages.calendar.noEventsToday": "No hay eventos hoy",
   "pages.calendar.noEventsUpcoming": "No hay eventos próximos",
-  "pages.calendar.today": "Hoy"
+  "pages.calendar.today": "Hoy",
+  "learning.chat.input.placeholder": "Pide lo que necesites sobre tus cursos...",
+  "learning.chat.suggestions.title": "¿Cómo puedo ayudarte hoy?",
+  "learning.chat.xblock.lastAccessed": "Último acceso",
+  "learning.chat.suggestions.continueCourse": "Continuar mi curso",
+  "learning.chat.suggestions.showProgress": "Mostrar mi progreso",
+  "learning.chat.suggestions.showCourses": "Mostrar mis cursos",
+  "learning.chat.suggestions.upcomingDeadlines": "Fechas límite próximas",
+  "learning.chat.suggestions.reportProblem": "Reportar un problema",
+  "learning.chat.suggestions.continueCourseAction": "Quiero continuar mi curso",
+  "learning.chat.suggestions.showProgressAction": "Quiero ver mi progreso",
+  "learning.chat.suggestions.showCoursesAction": "Quiero ver mis cursos",
+  "learning.chat.suggestions.upcomingDeadlinesAction": "Quiero ver mis fechas límite próximas",
+  "learning.chat.suggestions.reportProblemAction": "Reportar un problema",
+  "learning.chat.suggestions.legacyView": "Vista antigua",
+  "learning.chat.suggestions.newView": "Vista nueva"
 }
