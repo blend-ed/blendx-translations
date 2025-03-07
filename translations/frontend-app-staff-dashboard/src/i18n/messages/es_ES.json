@@ -671,5 +671,18 @@
   "support.blendxAdminBlocked": "Acceso de administrador bloqueado",
   "support.blendxAdminAllowed": "Acceso de administrador permitido",
   "support.blockBlendxAdmin": "Bloquear acceso de administrador",
-  "support.unblockBlendxAdmin": "Desbloquear acceso de administrador"
+  "support.unblockBlendxAdmin": "Desbloquear acceso de administrador",
+  "learning.chat.input.placeholder": "Pregunta cualquier cosa sobre tus cursos...",
+  "learning.chat.suggestions.title": "¿Cómo puedo ayudarte hoy?",
+  "learning.chat.xblock.lastAccessed": "Último acceso: {date}",
+  "learning.chat.suggestions.continueCourse": "Continuar mi curso",
+  "learning.chat.suggestions.showProgress": "Mostrar mi progreso",
+  "learning.chat.suggestions.upcomingDeadlines": "Próximas fechas límite",
+  "learning.chat.suggestions.reportProblem": "Reportar un problema",
+  "learning.chat.suggestions.continueCourseAction": "Quiero continuar mi curso",
+  "learning.chat.suggestions.showProgressAction": "Quiero ver mi progreso",
+  "learning.chat.suggestions.upcomingDeadlinesAction": "Quiero ver mis próximas fechas límite",
+  "learning.chat.suggestions.reportProblemAction": "Reportar un problema",
+  "learning.chat.suggestions.legacyView": "Vista anterior",
+  "learning.chat.suggestions.newView": "Nueva vista"
 }
