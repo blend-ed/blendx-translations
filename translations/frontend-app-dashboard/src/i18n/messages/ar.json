@@ -166,5 +166,20 @@
   "pages.wishlist.wishlistEmpty": "لا توجد عناصر في قائمة الرغبات",
   "pages.wishlist.ztoa": "ي إلى أ",
   "utils.courseDataParser.hours": "ساعات",
-  "utils.courseDataParser.notSpecified": "غير محدد"
+  "utils.courseDataParser.notSpecified": "غير محدد",
+  "learning.chat.input.placeholder": "طلب ما تحتاجه عن دوراتك...",
+  "learning.chat.suggestions.title": "كيف يمكنني مساعدتك اليوم؟",
+  "learning.chat.xblock.lastAccessed": "آخر زيارة",
+  "learning.chat.suggestions.continueCourse": "استمرار دورتي",
+  "learning.chat.suggestions.showProgress": "عرض تقدمي",
+  "learning.chat.suggestions.showCourses": "عرض دوراتي",
+  "learning.chat.suggestions.upcomingDeadlines": "المواعيد القادمة",
+  "learning.chat.suggestions.reportProblem": "الإبلاغ عن مشكلة",
+  "learning.chat.suggestions.continueCourseAction": "أريد استمرار دورتي",
+  "learning.chat.suggestions.showProgressAction": "أريد عرض تقدمي",
+  "learning.chat.suggestions.showCoursesAction": "أريد عرض دوراتي",
+  "learning.chat.suggestions.upcomingDeadlinesAction": "أريد عرض المواعيد القادمة",
+  "learning.chat.suggestions.reportProblemAction": "الإبلاغ عن مشكلة",
+  "learning.chat.suggestions.legacyView": "عرض قديم",
+  "learning.chat.suggestions.newView": "عرض جديد"
 }
