@@ -719,5 +719,9 @@
   "view.ticket.send": "إرسال",
   "view.ticket.updated.success": "تم تحديث التذكرة بنجاح",
   "view.ticket.updated.failed": "فشل تحديث التذكرة",
-  "view.ticket.no.messages": "لا توجد رسائل بعد"
+  "view.ticket.no.messages": "لا توجد رسائل بعد",
+  "progressCard.courses": "الدورات",
+  "progressCard.programs": "البرامج",
+  "progressCard.learners": "المتعلمون",
+  "progressCard.certificatesIssued": "الشهادات المصدرة"
 }
