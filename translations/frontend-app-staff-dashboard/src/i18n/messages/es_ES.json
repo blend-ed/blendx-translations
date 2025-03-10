@@ -719,5 +719,9 @@
   "view.ticket.send": "Enviar",
   "view.ticket.updated.success": "Ticket actualizado con éxito",
   "view.ticket.updated.failed": "Error al actualizar el ticket",
-  "view.ticket.no.messages": "Aún no hay mensajes"
+  "view.ticket.no.messages": "Aún no hay mensajes",
+  "progressCard.courses": "Cursos",
+  "progressCard.programs": "Programas",
+  "progressCard.learners": "Estudiantes",
+  "progressCard.certificatesIssued": "Certificados emitidos"
 }
