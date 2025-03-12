@@ -46,5 +46,6 @@
   "BlendxCard.edit": "Editar curso",
   "BlendxCard.viewLive": "Ver en vivo",
   "BlendxCard.noAccess": "Sin acceso",
-  "BlendxCard.estimatedTime": "Tiempo estimado"
+  "BlendxCard.estimatedTime": "Tiempo estimado",
+  "Table.search": "Buscar {label}"
 }
