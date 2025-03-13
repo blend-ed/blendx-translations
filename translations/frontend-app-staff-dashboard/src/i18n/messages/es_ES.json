@@ -708,7 +708,7 @@
   "documentCard.vectorize": "Vectorizar",
   "library.knowledgeBase.fileTypeDescription": "PDF, DOC, DOCX, PPT, PPTX, XLS, XLSX, CSV, TXT, RTF, ODT, ODS, ODP",
   "library.knowledgeBase.team": "Equipo",
-  "library.menu.knowledgeBase": "Base de conocimientos",
+  "library.menu.documents": "Documentos",
   "library.knowledgeBase.addNew": "Añadir nuevo archivo",
   "library.knowledgeBase.noFiles": "No hay archivos disponibles.",
   "library.knowledgeBase.noDocuments": "No hay documentos disponibles.",
