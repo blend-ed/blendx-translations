@@ -734,5 +734,7 @@
   "progressCard.courses": "الدورات",
   "progressCard.programs": "البرامج",
   "progressCard.learners": "المتعلمون",
-  "progressCard.certificatesIssued": "الشهادات المصدرة"
+  "progressCard.certificatesIssued": "الشهادات المصدرة",
+  "staff.features.aiHomePage": "صفحة البدء الذكاء الاصطناعي",
+  "staff.features.aiHomePage.description": "صفحة البدء الذكاء الاصطناعي هي ميزة تسمح بإظهار صفحة البدء الذكاء الاصطناعي."
 }
