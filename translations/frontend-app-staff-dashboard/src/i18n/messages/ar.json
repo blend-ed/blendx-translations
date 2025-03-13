@@ -708,7 +708,7 @@
   "documentCard.vectorize": "تحويل",
   "library.knowledgeBase.fileTypeDescription": "PDF, DOC, DOCX, PPT, PPTX, XLS, XLSX, CSV, TXT, RTF, ODT, ODS, ODP",
   "library.knowledgeBase.team": "الفريق",
-  "library.menu.knowledgeBase": "قاعدة المعرفة",
+  "library.menu.documents": "المستندات",
   "library.knowledgeBase.addNew": "إضافة ملف جديد",
   "library.knowledgeBase.noFiles": "لا يوجد ملفات متاحة.",
   "library.knowledgeBase.noDocuments": "لا يوجد مستندات متاحة.",
