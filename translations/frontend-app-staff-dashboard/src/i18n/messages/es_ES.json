@@ -734,5 +734,7 @@
   "progressCard.courses": "Cursos",
   "progressCard.programs": "Programas",
   "progressCard.learners": "Estudiantes",
-  "progressCard.certificatesIssued": "Certificados emitidos"
+  "progressCard.certificatesIssued": "Certificados emitidos",
+  "staff.features.aiHomePage": "Página de inicio de IA",
+  "staff.features.aiHomePage.description": "Página de inicio de IA es una característica que permite mostrar la página de inicio de IA."
 }
