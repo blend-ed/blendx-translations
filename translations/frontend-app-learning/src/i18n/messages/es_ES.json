@@ -7,7 +7,7 @@
   "learning.logistration.login": "iniciar sesión",
   "general.signIn.sentenceCase": "Iniciar sesión",
   "tours.abandonTour.launchTourCheckpoint.body": "¿Te sientes perdido? Inicia la visita guiada en cualquier momento para obtener algunos consejos rápidos para aprovechar al máximo la experiencia.",
-  "tours.sequenceNavigationCheckpoint.body": "La barra superior del curso te permite cambiar fácilmente entre diferentes secciones y te muestra lo que está por venir.",
+  "tours.sequenceNavigationCheckpoint.body": "La barra inferior del curso te permite cambiar fácilmente entre diferentes secciones y te muestra lo que está por venir.",
   "tours.existingUserTour.launchTourCheckpoint.body": "Recientemente hemos agregado algunas funcionalidades nuevas a la experiencia del curso. ¿Quieres saber más sobre ellas? Inicia la visita guiada para obtener más información.",
   "tours.button.dismiss": "Descartar",
   "tours.button.next": "Siguiente",
