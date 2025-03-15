@@ -1413,6 +1413,7 @@
   "course-authoring.schedule-section.details.alert.warning.button.cancel": "إلغاء",
   "course-authoring.schedule-section.details.publish.published": "منشور",
   "course-authoring.schedule-section.details.publish.unpublished": "غير منشور",
+  "course-authoring.schedule-section.details.tags.no-tags-assigned":"لم تتم إضافة أي علامات إلى هذه الدورة",
   "course-authoring.schedule-section.introducing.upload-image.description.label": "الوصف",
   "course-authoring.schedule-section.introducing.upload-image.description.placeholder": "أدخل وصفاً لتوليد صورة",
   "course-authoring.schedule-section.introducing.upload-image.generating-image": "جاري التوليد...",
