@@ -179,6 +179,8 @@
   "platform.settings.integrations": "التكاملات",
   "platform.settings.integrations.apiKey": "مفتاح API",
   "platform.settings.integrations.available": "متاح",
+  "platform.settings.integrations.tavily": "Tavily",
+  "platform.settings.integrations.tavily.description": "تكامل مع Tavily",
   "platform.settings.integrations.azureAi": "Azure AI",
   "platform.settings.integrations.azureAi.description": "تكامل مع Azure AI",
   "platform.settings.integrations.clarity": "Clarity",

@@ -181,6 +181,8 @@
   "platform.settings.integrations": "Integraciones",
   "platform.settings.integrations.apiKey": "Clave API",
   "platform.settings.integrations.available": "Disponible",
+  "platform.settings.integrations.tavily": "Tavily",
+  "platform.settings.integrations.tavily.description": "Integración con Tavily",
   "platform.settings.integrations.azureAi": "Azure AI",
   "platform.settings.integrations.azureAi.description": "Integración con Azure AI",
   "platform.settings.integrations.clarity": "Clarity",
