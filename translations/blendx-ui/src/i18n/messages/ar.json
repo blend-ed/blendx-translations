@@ -47,5 +47,6 @@
   "BlendxCard.viewLive": "عرض حي",
   "BlendxCard.noAccess": "لا يوجد إذن",
   "BlendxCard.estimatedTime": "الوقت المتوقع",
+  "BlendxCard.startDate": "بدء الدورة {startDate}",
   "Table.search": "ابحث في {label}"  
 }

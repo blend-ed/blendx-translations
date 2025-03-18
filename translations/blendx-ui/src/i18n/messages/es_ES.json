@@ -47,5 +47,6 @@
   "BlendxCard.viewLive": "Ver en vivo",
   "BlendxCard.noAccess": "Sin acceso",
   "BlendxCard.estimatedTime": "Tiempo estimado",
+  "BlendxCard.startDate": "Fecha de inicio {startDate}",
   "Table.search": "Buscar {label}"
 }
