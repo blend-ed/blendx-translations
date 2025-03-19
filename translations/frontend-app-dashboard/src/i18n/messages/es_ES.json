@@ -21,6 +21,7 @@
   "components.courseExploreCard.inviteOnly": "Solo por invitación",
   "components.courseExploreCard.notAvailable": "No disponible para inscripción",
   "components.courseExploreCard.whatCanBeAchieved": "Lo que puedes conseguir",
+  "components.courseExploreCard.started": "Comenzado",
   "components.courseSummary.actionsColumn": "Acciones",
   "components.courseSummary.attendanceColumn": "Asistencia",
   "components.courseSummary.completionProgressColumn": "Progreso",

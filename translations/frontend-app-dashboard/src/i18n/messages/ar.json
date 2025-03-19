@@ -21,6 +21,7 @@
   "components.courseExploreCard.inviteOnly": "للمدعوين فقط",
   "components.courseExploreCard.notAvailable": "غير متاح للتسجيل",
   "components.courseExploreCard.whatCanBeAchieved": "ما يمكن تحقيقه",
+  "components.courseExploreCard.started": "بدأ",
   "components.courseSummary.actionsColumn": "الإجراءات",
   "components.courseSummary.attendanceColumn": "الحضور",
   "components.courseSummary.completionProgressColumn": "نسبة الإكمال",
