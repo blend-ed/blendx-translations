@@ -82,6 +82,7 @@
   "dashboard.page.logout": "تسجيل الخروج",
   "dashboard.page.my-learning": "التعلم الخاص بي",
   "dashboard.page.notifications": "التنبيهات",
+  "dashboard.page.noEventsFound": "لا يوجد أحداث",
   "dashboard.page.programs": "البرامج",
   "dashboard.page.progress": "التقدم",
   "dashboard.page.recentActivity": "الأنشطة الأخيرة",

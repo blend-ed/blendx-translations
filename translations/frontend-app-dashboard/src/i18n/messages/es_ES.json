@@ -82,6 +82,7 @@
   "dashboard.page.logout": "Cerrar sesión",
   "dashboard.page.my-learning": "Mi aprendizaje",
   "dashboard.page.notifications": "Notificaciones",
+  "dashboard.page.noEventsFound": "No hay eventos",
   "dashboard.page.programs": "Programas",
   "dashboard.page.progress": "Progreso",
   "dashboard.page.recentActivity": "Actividad reciente",
