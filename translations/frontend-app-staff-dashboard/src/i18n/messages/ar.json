@@ -851,5 +851,16 @@
   "users.usersAddedSuccess": "تمت إضافة {count} مستخدم{count, plural, one {} other {ين}} إلى الفريق بنجاح",
   "users.failedToAddUsers": "فشل في إضافة مستخدمين إلى الفريق",
   "users.systemTeam": "فريق النظام",
-  "users.systemTeamNotice": "هذا فريق نظام لا يمكن تعديله أو حذفه. لا يمكن إزالة أعضاء هذا الفريق."
+  "users.systemTeamNotice": "هذا فريق نظام لا يمكن تعديله أو حذفه. لا يمكن إزالة أعضاء هذا الفريق.",
+  "ai.studio.document.invalidLink": "رابط غير صالح. يرجى إدخال رابط صالح.",
+  "ai.studio.document.invalidLinkProtocol": "رابط غير صالح. يرجى إدخال رابط بدءًا بـ http:// أو https://",
+  "ai.studio.components.select": "اختيار المكونات",
+  "ai.studio.components.html": "HTML (التوضيحات النصية)",
+  "ai.studio.components.image": "الصور (المخططات، الرسوم التخطيطية)",
+  "ai.studio.components.video": "المحتوى الفيديوي",
+  "ai.studio.components.multipleChoice": "الأسئلة المتعددة الاختيار",
+  "ai.studio.components.checkbox": "المربعات المنفردة",
+  "ai.studio.components.textInput": "النص المدخل",
+  "ai.studio.components.dropdown": "القائمة المنسدلة",
+  "ai.studio.components.numerical": "الأرقام"
 }

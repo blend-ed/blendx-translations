@@ -851,5 +851,16 @@
   "users.usersAddedSuccess": "Se añadieron con éxito {count} usuario{count, plural, one {} other {s}} al equipo",
   "users.failedToAddUsers": "Error al añadir usuarios al equipo",
   "users.systemTeam": "Equipo del sistema",
-  "users.systemTeamNotice": "Este es un equipo del sistema que no se puede editar ni eliminar. Los miembros de este equipo no pueden ser eliminados."
+  "users.systemTeamNotice": "Este es un equipo del sistema que no se puede editar ni eliminar. Los miembros de este equipo no pueden ser eliminados.",
+  "ai.studio.document.invalidLink": "Enlace inválido. Por favor, introduce un enlace válido.",
+  "ai.studio.document.invalidLinkProtocol": "Enlace inválido. Por favor, introduce un enlace que comience con http:// o https://",
+  "ai.studio.components.select": "Seleccionar componentes",
+  "ai.studio.components.html": "HTML (comentarios de texto)",
+  "ai.studio.components.image": "Imágenes (diagramas, gráficos)",
+  "ai.studio.components.video": "Contenido de video",
+  "ai.studio.components.multipleChoice": "Preguntas de opción múltiple",
+  "ai.studio.components.checkbox": "Casillas de verificación",
+  "ai.studio.components.textInput": "Entrada de texto",
+  "ai.studio.components.dropdown": "Lista desplegable",
+  "ai.studio.components.numerical": "Números"
 }
