@@ -142,6 +142,8 @@
   "pages.learning.learner-program.courses": "Cursos",
   "pages.learning.learner-program.noAboutFound": "No se encontró información",
   "pages.learning.learner-program.noCoursesFound": "No se encontraron cursos",
+  "pages.learning.learner-program.description": "Descripción",
+  "pages.learning.learner-program.noDescriptionFound": "No se encontró descripción",
   "pages.learning.notes": "Notas",
   "pages.learning.programs": "Programas",
   "pages.learning.relevent": "Relevante",

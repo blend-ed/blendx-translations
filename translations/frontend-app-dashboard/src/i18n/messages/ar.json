@@ -146,6 +146,8 @@
   "pages.learning.learner-program.courses": "دورات",
   "pages.learning.learner-program.noAboutFound": "هذا البرنامج ليس لديه وصف أو قسم حول",
   "pages.learning.learner-program.noCoursesFound": "لم يتم العثور على دورات",
+  "pages.learning.learner-program.description": "الوصف",
+  "pages.learning.learner-program.noDescriptionFound": "لم يتم العثور على وصف",
   "pages.learning.notes": "الملاحظات",
   "pages.learning.programs": "البرامج",
   "pages.learning.relevent": "ذات الصلة",
