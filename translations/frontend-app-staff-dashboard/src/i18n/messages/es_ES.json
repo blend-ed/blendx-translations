@@ -862,5 +862,22 @@
   "ai.studio.components.checkbox": "Casillas de verificación",
   "ai.studio.components.textInput": "Entrada de texto",
   "ai.studio.components.dropdown": "Lista desplegable",
-  "ai.studio.components.numerical": "Números"
+  "ai.studio.components.numerical": "Números",
+  "notifications.users": "Usuarios",
+  "notifications.teams": "Equipos",
+  "notifications.courses": "Cursos",
+  "notifications.programs": "Programas",
+  "notifications.searchTeams": "Buscar equipos",
+  "notifications.searchCourses": "Buscar cursos",
+  "notifications.searchPrograms": "Buscar programas",
+  "notifications.teamName": "Nombre del equipo",
+  "notifications.courseName": "Nombre del curso",
+  "notifications.programName": "Nombre del programa",
+  "notifications.members": "Miembros",
+  "notifications.member": "Miembro",
+  "notifications.teamsSelected": "Equipos seleccionados",
+  "notifications.coursesSelected": "Cursos seleccionados",
+  "notifications.programsSelected": "Programas seleccionados",
+  "notifications.customRoles": "Roles personalizados",
+  "notifications.selectRoles": "Seleccionar roles"
 }

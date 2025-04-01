@@ -862,5 +862,22 @@
   "ai.studio.components.checkbox": "المربعات المنفردة",
   "ai.studio.components.textInput": "النص المدخل",
   "ai.studio.components.dropdown": "القائمة المنسدلة",
-  "ai.studio.components.numerical": "الأرقام"
+  "ai.studio.components.numerical": "الأرقام",
+  "notifications.users": "المستخدمون",
+  "notifications.teams": "الفرق",
+  "notifications.courses": "المساقات",
+  "notifications.programs": "البرامج",
+  "notifications.searchTeams": "بحث عن الفرق",
+  "notifications.searchCourses": "بحث عن المساقات",
+  "notifications.searchPrograms": "بحث عن البرامج",
+  "notifications.teamName": "اسم الفريق",
+  "notifications.courseName": "اسم المساق",
+  "notifications.programName": "اسم البرنامج",
+  "notifications.members": "الأعضاء",
+  "notifications.member": "عضو",
+  "notifications.teamsSelected": "فرق محددة",
+  "notifications.coursesSelected": "مساقات محددة",
+  "notifications.programsSelected": "برامج محددة",
+  "notifications.customRoles": "أدوار مخصصة",
+  "notifications.selectRoles": "اختيار الأدوار"
 }
