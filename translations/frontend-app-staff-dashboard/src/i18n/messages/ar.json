@@ -914,5 +914,17 @@
   "users.noCoursesFound": "لم يتم العثور على مساقات مطابقة لبحثك",
   "users.noCourses": "لا توجد مساقات متاحة",
   "users.noProgramsFound": "لم يتم العثور على برامج مطابقة لبحثك",
-  "users.noPrograms": "لا توجد برامج متاحة"
+  "users.noPrograms": "لا توجد برامج متاحة",
+  "library.knowledgeBase.selectTeam": "اختر فريق...",
+  "library.knowledgeBase.addToKnowledgeBase": "إضافة إلى قاعدة المعرفة",
+  "library.knowledgeBase.documentUploadedSuccessfully": "تم رفع المستند بنجاح",
+  "library.knowledgeBase.documentAddedToKnowledgeBase": "تم إضافة المستند إلى قاعدة المعرفة بنجاح",
+  "library.knowledgeBase.documentAddToKnowledgeBaseFailed": "فشل في إضافة المستند إلى قاعدة المعرفة",
+  "library.common.yes": "نعم",
+  "library.common.no": "لا",
+  "table.search.placeholder": "بحث...",
+  "table.sort": "ترتيب",
+  "documentCard.editDocumentTeams": "تعديل فرق المستند",
+  "documentCard.selectTeams": "اختر فريق واحد أو أكثر...",
+  "documentCard.documentTeamsUpdated": "تم تحديث فرق المستند بنجاح"
 }

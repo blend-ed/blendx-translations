@@ -752,7 +752,7 @@
   "library.knowledgeBase.noFiles": "No hay archivos disponibles.",
   "library.knowledgeBase.noDocuments": "No hay documentos disponibles.",
   "library.knowledgeBase.noVideos": "No hay videos disponibles.",
-    "view.ticket.details": "Detalles del ticket",
+  "view.ticket.details": "Detalles del ticket",
   "view.ticket.type": "Tipo de ticket",
   "view.ticket.change.priority": "Cambiar prioridad",
   "view.ticket.change.status": "Cambiar estado",
@@ -914,5 +914,17 @@
   "users.noCoursesFound": "No se encontraron cursos que coincidan con tu búsqueda",
   "users.noCourses": "No hay cursos disponibles",
   "users.noProgramsFound": "No se encontraron programas que coincidan con tu búsqueda",
-  "users.noPrograms": "No hay programas disponibles"
+  "users.noPrograms": "No hay programas disponibles",
+  "library.knowledgeBase.selectTeam": "Seleccionar un equipo...",
+  "library.knowledgeBase.addToKnowledgeBase": "Añadir a la base de conocimiento",
+  "library.knowledgeBase.documentUploadedSuccessfully": "Documento subido correctamente",
+  "library.knowledgeBase.documentAddedToKnowledgeBase": "Documento añadido a la base de conocimiento correctamente",
+  "library.knowledgeBase.documentAddToKnowledgeBaseFailed": "Error al añadir el documento a la base de conocimiento",
+  "library.common.yes": "Sí",
+  "library.common.no": "No",
+  "table.search.placeholder": "Buscar...",
+  "table.sort": "Ordenar",
+  "documentCard.editDocumentTeams": "Editar equipos del documento",
+  "documentCard.selectTeams": "Seleccionar uno o más equipos...",
+  "documentCard.documentTeamsUpdated": "Equipos del documento actualizados correctamente"
 }
