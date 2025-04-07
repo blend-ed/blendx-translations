@@ -718,6 +718,7 @@
   "course-authoring.schedule-section.introducing.upload-image.icon-alt": "icono de carga de archivos",
   "course-authoring.schedule-section.introducing.upload-image.manage": "Puede administrar esta imagen junto con todas sus otras {hyperlink}",
   "course-authoring.schedule-section.introducing.upload-image.input.placeholder": "Su URL {identifierFieldText}",
+  "course-authoring.schedule-section.introducing.upload-image.aspect-ratio-hint": "La proporción áurea de la imagen es 16:9",
   "course-authoring.create-or-rerun-course.display-name.label": "Nombre del curso",
   "course-authoring.create-or-rerun-course.display-name.placeholder": "ej.: Introducción a las Ciencias de la computación",
   "course-authoring.create-or-rerun-course.create.display-name.help-text": "El nombre público para mostrar de su curso. Esto no se puede cambiar, pero puede establecer un nombre para mostrar diferente en la configuración avanzada más adelante.",
@@ -1407,7 +1408,7 @@
   "course-authoring.schedule-section.details.tags.label": "Etiquetas del curso",
   "course-authoring.schedule-section.details.tags.help-text": "Añadir etiquetas para ayudar a los estudiantes a encontrar el curso",
   "course-authoring.schedule-section.details.tags.placeholder": "Añadir etiquetas",
-  "course-authoring.schedule-section.details.tags.no-tags-assigned":"No se agregan etiquetas a este curso",
+  "course-authoring.schedule-section.details.tags.no-tags-assigned": "No se agregan etiquetas a este curso",
   "course-authoring.schedule-section.details.alert.warning.title": "Advertencia",
   "course-authoring.schedule-section.details.alert.warning.message": "Los cambios en los ajustes avanzados del curso afectarán a todos los estudiantes inscritos en el curso.",
   "course-authoring.schedule-section.details.alert.warning.button": "Actualizar",
@@ -1558,9 +1559,9 @@
   "cohorts.drawer.button.cancel": "Cancelar",
   "cohorts.drawer.button.save": "Guardar cambios",
   "cohorts.drawer.button.create": "Crear grupo",
-  "details.section.courseVectorSettingsLabel":"Agregar datos del curso a la base de conocimientos",
-  "details.section.courseVectorSettingsRegenerateLabel":"Regenerar datos del curso para la base de conocimientos",
-  "details.section.courseVectorSettingsHelpText":"Agregue los datos de este curso a la base de conocimientos",
-  "details.section.generateCourseVectorToast":"Agregar datos vectoriales del curso a la base de conocimientos",
-  "details.section.regenerateCourseVectorToast":"Regeneración de datos vectoriales del curso para agregarlos a la base de conocimientos"
+  "details.section.courseVectorSettingsLabel": "Agregar datos del curso a la base de conocimientos",
+  "details.section.courseVectorSettingsRegenerateLabel": "Regenerar datos del curso para la base de conocimientos",
+  "details.section.courseVectorSettingsHelpText": "Agregue los datos de este curso a la base de conocimientos",
+  "details.section.generateCourseVectorToast": "Agregar datos vectoriales del curso a la base de conocimientos",
+  "details.section.regenerateCourseVectorToast": "Regeneración de datos vectoriales del curso para agregarlos a la base de conocimientos"
 }

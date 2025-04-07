@@ -718,6 +718,7 @@
   "course-authoring.schedule-section.introducing.upload-image.icon-alt": "أيقونة تحميل الملف",
   "course-authoring.schedule-section.introducing.upload-image.manage": "يمكنك إدارة هذه الصورة مع جميع {hyperlink} الأخرى",
   "course-authoring.schedule-section.introducing.upload-image.input.placeholder": "عنوان URL الخاص بـ {identifierFieldText}",
+  "course-authoring.schedule-section.introducing.upload-image.aspect-ratio-hint": "النسبة الذهبية للصورة هي 16:9",
   "course-authoring.create-or-rerun-course.display-name.label": "اسم المقرر",
   "course-authoring.create-or-rerun-course.display-name.placeholder": "مثلًا، مقدّمة لعلوم الكمبيوتر",
   "course-authoring.create-or-rerun-course.create.display-name.help-text": "اسم العرض العام للدورة التدريبية الخاصة بك. لا يمكن تغيير هذا، ولكن يمكنك تعيين اسم عرض مختلف في الإعدادات المتقدمة لاحقًا.",
@@ -1413,7 +1414,7 @@
   "course-authoring.schedule-section.details.alert.warning.button.cancel": "إلغاء",
   "course-authoring.schedule-section.details.publish.published": "منشور",
   "course-authoring.schedule-section.details.publish.unpublished": "غير منشور",
-  "course-authoring.schedule-section.details.tags.no-tags-assigned":"لم تتم إضافة أي علامات إلى هذه الدورة",
+  "course-authoring.schedule-section.details.tags.no-tags-assigned": "لم تتم إضافة أي علامات إلى هذه الدورة",
   "course-authoring.schedule-section.introducing.upload-image.description.label": "الوصف",
   "course-authoring.schedule-section.introducing.upload-image.description.placeholder": "أدخل وصفاً لتوليد صورة",
   "course-authoring.schedule-section.introducing.upload-image.generating-image": "جاري التوليد...",
@@ -1558,9 +1559,9 @@
   "cohorts.drawer.button.cancel": "إلغاء",
   "cohorts.drawer.button.save": "حفظ التغييرات",
   "cohorts.drawer.button.create": "إنشاء مجموعة",
-  "details.section.courseVectorSettingsLabel":"إضافة بيانات الدورة التدريبية إلى قاعدة المعرفة",
-  "details.section.courseVectorSettingsRegenerateLabel":"إعادة إنشاء بيانات الدورة التدريبية لقاعدة المعرفة",
-  "details.section.courseVectorSettingsHelpText":"قم بإضافة بيانات الدورة التدريبية هذه إلى قاعدة المعرفة",
-  "details.section.generateCourseVectorToast":"إضافة بيانات متجه الدورة إلى قاعدة المعرفة",
-  "details.section.regenerateCourseVectorToast":"إعادة إنشاء بيانات متجه الدورة التدريبية لإضافتها إلى قاعدة المعرفة"
+  "details.section.courseVectorSettingsLabel": "إضافة بيانات الدورة التدريبية إلى قاعدة المعرفة",
+  "details.section.courseVectorSettingsRegenerateLabel": "إعادة إنشاء بيانات الدورة التدريبية لقاعدة المعرفة",
+  "details.section.courseVectorSettingsHelpText": "قم بإضافة بيانات الدورة التدريبية هذه إلى قاعدة المعرفة",
+  "details.section.generateCourseVectorToast": "إضافة بيانات متجه الدورة إلى قاعدة المعرفة",
+  "details.section.regenerateCourseVectorToast": "إعادة إنشاء بيانات متجه الدورة التدريبية لإضافتها إلى قاعدة المعرفة"
 }
