@@ -937,6 +937,9 @@
   "table.search.placeholder": "Buscar...",
   "table.sort": "Ordenar",
   "documentCard.editDocumentTeams": "Editar equipos del documento",
-  "documentCard.selectTeams": "Seleccionar uno o más equipos...",
-  "documentCard.documentTeamsUpdated": "Equipos del documento actualizados correctamente"
+  "documentCard.selectTeams": "Seleccionar equipos",
+  "documentCard.documentTeamsUpdated": "Equipos del documento actualizados correctamente",
+  "documentCard.editDocument": "Editar Documento",
+  "documentCard.documentTitle": "Título del Documento",
+  "documentCard.documentTeams": "Equipos"
 }

@@ -937,6 +937,9 @@
   "table.search.placeholder": "بحث...",
   "table.sort": "ترتيب",
   "documentCard.editDocumentTeams": "تعديل فرق المستند",
-  "documentCard.selectTeams": "اختر فريق واحد أو أكثر...",
-  "documentCard.documentTeamsUpdated": "تم تحديث فرق المستند بنجاح"
+  "documentCard.selectTeams": "اختيار الفرق",
+  "documentCard.documentTeamsUpdated": "تم تحديث فرق المستند بنجاح",
+  "documentCard.editDocument": "تعديل المستند",
+  "documentCard.documentTitle": "عنوان المستند",
+  "documentCard.documentTeams": "الفرق"
 }
