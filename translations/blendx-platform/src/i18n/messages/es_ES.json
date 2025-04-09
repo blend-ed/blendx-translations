@@ -33,5 +33,15 @@
   "staff.dashboard.menu.ticketing": "Soporte",
   "staff.dashboard.menu.support": "Soporte",
   "staff.dashboard.menu.logout": "Cerrar sesión",
-  "staff.dashboard.menu.aiStudio": "AI Studio"
+  "staff.dashboard.menu.aiStudio": "AI Studio",
+  "cart.drawer.title": "Carrito",
+  "cart.item.badge.course": "Curso",
+  "cart.item.badge.program": "Programa",
+  "cart.item.button.remove": "Eliminar",
+  "cart.item.button.wishlist": "Mover a lista de deseos",
+  "cart.footer.subtotal": "Subtotal",
+  "cart.footer.button.cancel": "Cancelar",
+  "cart.footer.button.checkout": "Finalizar compra",
+  "cart.footer.button.enroll.free": "Inscribirse ahora",
+  "cart.footer.payment.disabled": "La pasarela de pago está deshabilitada"
 }

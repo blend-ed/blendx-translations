@@ -33,5 +33,15 @@
   "staff.dashboard.menu.ticketing": "الدعم",
   "staff.dashboard.menu.support": "الدعم",
   "staff.dashboard.menu.logout": "تسجيل الخروج",
-  "staff.dashboard.menu.aiStudio": "AI Studio"
+  "staff.dashboard.menu.aiStudio": "AI Studio",
+  "cart.drawer.title": "السلة",
+  "cart.item.badge.course": "دورة",
+  "cart.item.badge.program": "برنامج",
+  "cart.item.button.remove": "إزالة",
+  "cart.item.button.wishlist": "نقل إلى قائمة الأمنيات",
+  "cart.footer.subtotal": "المجموع الفرعي",
+  "cart.footer.button.cancel": "إلغاء",
+  "cart.footer.button.checkout": "إتمام الشراء",
+  "cart.footer.button.enroll.free": "سجل الآن",
+  "cart.footer.payment.disabled": "بوابة الدفع معطلة"
 }
