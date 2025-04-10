@@ -74,5 +74,9 @@
   "profile.tabs.purchases.status": "Estado",
   "profile.tabs.purchases.gateway": "Gateway",
   "profile.tabs.purchases.noTransactions": "No se encontraron transacciones",
-  "profile.ageVerification": "Confirma que tienes más de 13 años para añadir una foto de perfil"
+  "profile.ageVerification": "Confirma que tienes más de 13 años para añadir una foto de perfil",
+  "profile.badges.credly.heading": "Medallas de Credly",
+  "profile.badges.credly.noBadges": "No has conseguido ninguna medalla de Credly aún.",
+  "profile.badges.inApp.heading": "Medallas de la plataforma",
+  "profile.badges.inApp.noBadges": "No has conseguido ninguna medalla de la plataforma aún."
 }

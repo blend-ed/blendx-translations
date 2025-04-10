@@ -74,5 +74,9 @@
   "profile.tabs.purchases.status": "الحالة",
   "profile.tabs.purchases.gateway": "البوابة",
   "profile.tabs.purchases.noTransactions": "لا يوجد عمليات",
-  "profile.ageVerification": "يرجى التأكد من أنك قد بلغ الحد العمري المناسب لإضافة صورة الملف الشخصي"
+  "profile.ageVerification": "يرجى التأكد من أنك قد بلغ الحد العمري المناسب لإضافة صورة الملف الشخصي",
+  "profile.badges.credly.heading": "شارات Credly",
+  "profile.badges.credly.noBadges": "لم تكتسب أي شارات Credly بعد.",
+  "profile.badges.inApp.heading": "شارات المنصة",
+  "profile.badges.inApp.noBadges": "لم تكتسب أي شارات المنصة بعد."
 }
