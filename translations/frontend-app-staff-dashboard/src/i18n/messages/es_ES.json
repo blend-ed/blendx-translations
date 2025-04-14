@@ -944,5 +944,20 @@
   "documentCard.documentTeamsUpdated": "Equipos del documento actualizados correctamente",
   "documentCard.editDocument": "Editar Documento",
   "documentCard.documentTitle": "Título del Documento",
-  "documentCard.documentTeams": "Equipos"
+  "documentCard.documentTeams": "Equipos",
+  "calendar.event.save": "Guardar",
+  "calendar.event.cancel": "Cancelar",
+  "calendar.event.selectTarget": "Seleccionar Objetivo",
+  "calendar.event.selectRoles": "Seleccionar Roles",
+  "calendar.target.users": "Usuarios",
+  "calendar.target.teams": "Equipos",
+  "calendar.target.courses": "Cursos",
+  "calendar.target.programs": "Programas",
+  "calendar.roles.learners": "Estudiantes",
+  "calendar.roles.staff": "Personal",
+  "calendar.roles.admin": "Administrador",
+  "calendar.selection.selected": "Seleccionado",
+  "calendar.table.name": "Nombre",
+  "calendar.table.email": "Correo electrónico",
+  "staff.calendar.drawer.title": "Eventos"
 }

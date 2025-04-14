@@ -944,5 +944,20 @@
   "documentCard.documentTeamsUpdated": "تم تحديث فرق المستند بنجاح",
   "documentCard.editDocument": "تعديل المستند",
   "documentCard.documentTitle": "عنوان المستند",
-  "documentCard.documentTeams": "الفرق"
+  "documentCard.documentTeams": "الفرق",
+  "calendar.event.save": "حفظ",
+  "calendar.event.cancel": "إلغاء",
+  "calendar.event.selectTarget": "تحديد الهدف",
+  "calendar.event.selectRoles": "تحديد الأدوار",
+  "calendar.target.users": "المستخدمون",
+  "calendar.target.teams": "الفرق",
+  "calendar.target.courses": "المساقات",
+  "calendar.target.programs": "البرامج",
+  "calendar.roles.learners": "المتعلمون",
+  "calendar.roles.staff": "الموظفون",
+  "calendar.roles.admin": "المسؤول",
+  "calendar.selection.selected": "محدد",
+  "calendar.table.name": "الاسم",
+  "calendar.table.email": "البريد الإلكتروني",
+  "staff.calendar.drawer.title": "الأحداث"
 }
