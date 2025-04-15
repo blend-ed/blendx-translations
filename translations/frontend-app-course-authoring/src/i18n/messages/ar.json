@@ -1389,7 +1389,7 @@
   "course-overview.enrollments": "التسجيلات",
   "course-overview.attendance-total": "إجمالي أيام الحضور",
   "course-overview.enrolled": "{count, plural, one {تسجيل واحد} other {# تسجيلات}}",
-  "course-overview.effort": "{count, plural, one {جهد واحد} other {# جهود}}",
+  "course-overview.effort": "{count, plural, one {# ساعة في الأسبوع} other {# ساعة في الأسبوع}}",
   "course-overview.start-date": "{date, date, long}",
   "details.section.courseSettingsTitle": "إعدادات المساق",
   "details.section.courseSettingsDescription": "تكوين الظهور والإعدادات المتقدمة للمساق",

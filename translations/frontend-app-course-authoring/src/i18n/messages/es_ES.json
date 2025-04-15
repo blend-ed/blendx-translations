@@ -1389,7 +1389,7 @@
   "course-overview.enrollments": "Inscripciones",
   "course-overview.attendance-total": "Días totales asistidos",
   "course-overview.enrolled": "{count, plural, one {# Inscripción} other {# Inscripciones}}",
-  "course-overview.effort": "{count, plural, one {# esfuerzo} other {# esfuerzos}}",
+  "course-overview.effort": "{count, plural, one {# hora por semana} other {# horas por semana}}",
   "course-overview.start-date": "{date, date, long}",
   "details.section.courseSettingsTitle": "Configuraciones del curso",
   "details.section.courseSettingsDescription": "Configurar la visibilidad y los ajustes avanzados del curso",
