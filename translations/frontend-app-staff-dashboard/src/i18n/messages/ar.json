@@ -959,5 +959,6 @@
   "calendar.selection.selected": "محدد",
   "calendar.table.name": "الاسم",
   "calendar.table.email": "البريد الإلكتروني",
-  "staff.calendar.drawer.title": "الأحداث"
+  "staff.calendar.drawer.title": "الأحداث",
+  "components.courseExploreCard.tags": "وسوم البرنامج"
 }

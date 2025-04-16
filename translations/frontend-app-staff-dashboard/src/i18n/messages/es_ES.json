@@ -959,5 +959,6 @@
   "calendar.selection.selected": "Seleccionado",
   "calendar.table.name": "Nombre",
   "calendar.table.email": "Correo electrónico",
-  "staff.calendar.drawer.title": "Eventos"
+  "staff.calendar.drawer.title": "Eventos",
+  "components.courseExploreCard.tags": "Etiquetas del programa"
 }
