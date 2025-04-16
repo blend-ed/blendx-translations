@@ -324,7 +324,7 @@
   "program.single.settings.pleaseEnsureAllRequiredFieldsAreFilledCorrectlyWithAppropriateLengths": "Por favor, asegúrese de que todos los campos requeridos están completos y tienen longitudes apropiadas",
   "program.single.settings.programUpdatedSuccessfully": "Programa actualizado con éxito",
   "program.single.settings.tags": "Etiquetas",
-  "program.single.settings.selectTags": "Seleccionar etiquetas",
+  "program.single.settings.selectTags": "Las habilidades del curso se utilizarán como etiquetas",
   "program.single.settings.programImage": "Imagen del programa",
   "program.single.settings.hours": "Horas",
   "program.single.settings.days": "Días",

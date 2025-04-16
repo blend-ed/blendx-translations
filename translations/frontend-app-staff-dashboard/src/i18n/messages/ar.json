@@ -322,7 +322,7 @@
   "program.single.settings.pleaseEnsureAllRequiredFieldsAreFilledCorrectlyWithAppropriateLengths": "يرجى التأكد من أن جميع الحقول المطلوبة ملء بشكل صحيح ومناسب",
   "program.single.settings.programUpdatedSuccessfully": "تم تحديث البرنامج بنجاح",
   "program.single.settings.tags": "الوسوم",
-  "program.single.settings.selectTags": "اختر الوسوم",
+  "program.single.settings.selectTags": "سيتم استخدام المهارات من الدورة كوسوم",
   "program.single.settings.programImage": "صورة البرنامج",
   "program.single.settings.hours": "ساعات",
   "program.single.settings.days": "أيام",
