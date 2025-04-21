@@ -960,5 +960,12 @@
   "calendar.table.name": "Nombre",
   "calendar.table.email": "Correo electrónico",
   "staff.calendar.drawer.title": "Eventos",
-  "components.courseExploreCard.tags": "Etiquetas del programa"
+  "components.courseExploreCard.tags": "Etiquetas del programa",
+  "program.single.settings.publishStatus": "Estado de publicación",
+  "program.single.settings.inviteOnly": "Solo por invitación",
+  "program.single.settings.published": "Publicado",
+  "program.single.settings.unpublished": "No publicado",
+  "program.single.settings.public": "Público",
+  "program.single.settings.onlyPublishedCoursesAreVisibleToLearners": "Solo los cursos publicados son visibles para los estudiantes.",
+  "program.single.settings.visibleToLearnersWhoHaveBeenInvitedToTheProgram": "Visible para los estudiantes que han sido invitados al programa."
 }

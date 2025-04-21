@@ -960,5 +960,12 @@
   "calendar.table.name": "الاسم",
   "calendar.table.email": "البريد الإلكتروني",
   "staff.calendar.drawer.title": "الأحداث",
-  "components.courseExploreCard.tags": "وسوم البرنامج"
+  "components.courseExploreCard.tags": "وسوم البرنامج",
+  "program.single.settings.publishStatus": "حالة النشر",
+  "program.single.settings.inviteOnly": "بالدعوة فقط",
+  "program.single.settings.published": "منشور",
+  "program.single.settings.unpublished": "غير منشور",
+  "program.single.settings.public": "عام",
+  "program.single.settings.onlyPublishedCoursesAreVisibleToLearners": "فقط الدورات المنشورة مرئية للمتعلمين.",
+  "program.single.settings.visibleToLearnersWhoHaveBeenInvitedToTheProgram": "مرئي للمتعلمين الذين تمت دعوتهم إلى البرنامج."
 }
