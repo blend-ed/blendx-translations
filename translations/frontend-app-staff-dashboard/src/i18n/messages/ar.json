@@ -945,7 +945,6 @@
   "documentCard.editDocument": "تعديل المستند",
   "documentCard.documentTitle": "عنوان المستند",
   "documentCard.documentTeams": "الفرق",
-  "calendar.event.save": "حفظ",
   "calendar.event.cancel": "إلغاء",
   "calendar.event.selectTarget": "تحديد الهدف",
   "calendar.event.selectRoles": "تحديد الأدوار",
@@ -959,7 +958,6 @@
   "calendar.selection.selected": "محدد",
   "calendar.table.name": "الاسم",
   "calendar.table.email": "البريد الإلكتروني",
-  "staff.calendar.drawer.title": "الأحداث",
   "components.courseExploreCard.tags": "وسوم البرنامج",
   "program.single.settings.publishStatus": "حالة النشر",
   "program.single.settings.inviteOnly": "بالدعوة فقط",
@@ -967,5 +965,12 @@
   "program.single.settings.unpublished": "غير منشور",
   "program.single.settings.public": "عام",
   "program.single.settings.onlyPublishedCoursesAreVisibleToLearners": "فقط الدورات المنشورة مرئية للمتعلمين.",
-  "program.single.settings.visibleToLearnersWhoHaveBeenInvitedToTheProgram": "مرئي للمتعلمين الذين تمت دعوتهم إلى البرنامج."
+  "program.single.settings.visibleToLearnersWhoHaveBeenInvitedToTheProgram": "مرئي للمتعلمين الذين تمت دعوتهم إلى البرنامج.",
+  "notifications.errorFetchingData": "خطأ في جلب البيانات. يرجى المحاولة مرة أخرى لاحقاً.",
+  "notifications.errorLoadingData": "فشل في تحميل بيانات الإشعارات. يرجى المحاولة مرة أخرى لاحقاً.",
+  "notifications.titleRequired": "العنوان مطلوب",
+  "notifications.bodyRequired": "نص الرسالة مطلوب",
+  "notifications.targetRequired": "يرجى اختيار هدف واحد على الأقل",
+  "notifications.notificationSentSuccess": "تم إرسال الإشعار بنجاح",
+  "notifications.failedToSendNotification": "فشل في إرسال الإشعار. يرجى المحاولة مرة أخرى."
 }

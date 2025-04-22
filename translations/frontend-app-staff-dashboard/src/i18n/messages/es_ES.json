@@ -945,7 +945,6 @@
   "documentCard.editDocument": "Editar Documento",
   "documentCard.documentTitle": "Título del Documento",
   "documentCard.documentTeams": "Equipos",
-  "calendar.event.save": "Guardar",
   "calendar.event.cancel": "Cancelar",
   "calendar.event.selectTarget": "Seleccionar Objetivo",
   "calendar.event.selectRoles": "Seleccionar Roles",
@@ -959,7 +958,6 @@
   "calendar.selection.selected": "Seleccionado",
   "calendar.table.name": "Nombre",
   "calendar.table.email": "Correo electrónico",
-  "staff.calendar.drawer.title": "Eventos",
   "components.courseExploreCard.tags": "Etiquetas del programa",
   "program.single.settings.publishStatus": "Estado de publicación",
   "program.single.settings.inviteOnly": "Solo por invitación",
@@ -967,5 +965,12 @@
   "program.single.settings.unpublished": "No publicado",
   "program.single.settings.public": "Público",
   "program.single.settings.onlyPublishedCoursesAreVisibleToLearners": "Solo los cursos publicados son visibles para los estudiantes.",
-  "program.single.settings.visibleToLearnersWhoHaveBeenInvitedToTheProgram": "Visible para los estudiantes que han sido invitados al programa."
+  "program.single.settings.visibleToLearnersWhoHaveBeenInvitedToTheProgram": "Visible para los estudiantes que han sido invitados al programa.",
+  "notifications.errorFetchingData": "Error al obtener datos. Por favor, inténtalo de nuevo más tarde.",
+  "notifications.errorLoadingData": "Error al cargar datos de notificaciones. Por favor, inténtalo de nuevo más tarde.",
+  "notifications.titleRequired": "El título es obligatorio",
+  "notifications.bodyRequired": "El cuerpo del mensaje es obligatorio",
+  "notifications.targetRequired": "Por favor, selecciona al menos un destinatario",
+  "notifications.notificationSentSuccess": "Notificación enviada con éxito",
+  "notifications.failedToSendNotification": "Error al enviar la notificación. Por favor, inténtalo de nuevo."
 }
