@@ -94,6 +94,7 @@
   "dashboard.page.support": "الدعم",
   "dashboard.page.updates": "التحديثات",
   "dashboard.page.upcomingEvents": "الأحداث القادمة",
+  "dashboard.page.noRecentActivity": "لا يوجد أنشطة حديثة",
   "notifications.markAllAsRead": "تحديد الكل كمقروء",
   "notifications.noNotifications": "لا توجد تنبيهات",
   "notifications.notFound": "لم يتم العثور على التنبيه",

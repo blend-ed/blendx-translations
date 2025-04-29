@@ -94,6 +94,7 @@
   "dashboard.page.support": "Soporte",
   "dashboard.page.upcomingEvents": "Próximos eventos",
   "dashboard.page.updates": "Actualizaciones",
+  "dashboard.page.noRecentActivity": "No hay actividad reciente",
   "notifications.markAllAsRead": "Marcar todo como leído",
   "notifications.noNotifications": "No hay notificaciones",
   "notifications.notFound": "Notificación no encontrada",
