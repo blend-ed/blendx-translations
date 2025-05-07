@@ -79,6 +79,8 @@
   "learning.aiTutor": "مدرس الذكاء الاصطناعي",
   "learning.alwaysHereToHelp": "دائما هنا للمساعدة",
   "learning.suggestedQuestions": "الأسئلة المقترحة",
+  "learning.welcome": "أهلًا وسهلًا",
+  "learning.welcomeDescription": "يمكنني مساعدتك في دوراتك. فيما يلي بعض الموضوعات التي يمكنك التعرف عليها.",
   "learning.chat.askAnything": "اسأل أي شيء عن دوراتك ...",
   "dashboard.page.noRecentActivity": "لا يوجد نشاط حديث",
   "dashboard.page.progress": "ترقى",

@@ -79,6 +79,8 @@
   "learning.aiTutor": "एआई ट्यूटर",
   "learning.alwaysHereToHelp": "हमेशा मदद करने के लिए यहाँ",
   "learning.suggestedQuestions": "सुझाए गए प्रश्न",
+  "learning.welcome": "स्वागत है",
+  "learning.welcomeDescription": "मैं आपके पाठ्यक्रमों में आपकी मदद कर सकता हूं। यहां कुछ विषय दिए गए हैं जिनके बारे में आप जान सकते हैं।",
   "learning.chat.askAnything": "अपने पाठ्यक्रमों के बारे में कुछ भी पूछें ...",
   "dashboard.page.noRecentActivity": "हाल ही में कोई गतिविधि नहीं",
   "dashboard.page.progress": "जारी रहना",

@@ -79,6 +79,8 @@
   "learning.aiTutor": "Tuteur IA",
   "learning.alwaysHereToHelp": "Toujours là pour vous aider",
   "learning.suggestedQuestions": "Questions suggérées",
+  "learning.welcome": "Bienvenue",
+  "learning.welcomeDescription": "Je peux vous aider avec vos cours. Voici quelques sujets sur lesquels vous pouvez en apprendre.",
   "learning.chat.askAnything": "Demandez n’importe quoi sur vos cours...",
   "dashboard.page.noRecentActivity": "Aucune activité récente",
   "dashboard.page.progress": "Progrès",

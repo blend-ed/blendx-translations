@@ -79,6 +79,8 @@
   "learning.aiTutor": "AI 导师",
   "learning.alwaysHereToHelp": "随时为您提供帮助",
   "learning.suggestedQuestions": "建议的问题",
+  "learning.welcome": "欢迎",
+  "learning.welcomeDescription": "我可以帮助你完成你的课程。以下是您可以了解的一些主题。",
   "learning.chat.askAnything": "询问有关您的课程的任何事情...",
   "dashboard.page.noRecentActivity": "近期无活动",
   "dashboard.page.progress": "进展",

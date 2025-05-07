@@ -79,6 +79,8 @@
   "learning.aiTutor": "Репетитор с искусственным интеллектом",
   "learning.alwaysHereToHelp": "Всегда рядом, чтобы помочь",
   "learning.suggestedQuestions": "Предлагаемые вопросы",
+  "learning.welcome": "Добро пожаловать",
+  "learning.welcomeDescription": "Я могу помочь вам с вашими курсами. Вот несколько тем, о которых вы можете узнать.",
   "learning.chat.askAnything": "Спрашивайте что-нибудь о ваших курсах...",
   "dashboard.page.noRecentActivity": "Никакой активности в последнее время",
   "dashboard.page.progress": "Прогресс",
