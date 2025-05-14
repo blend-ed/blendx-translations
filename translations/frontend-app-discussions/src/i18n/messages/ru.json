@@ -143,6 +143,7 @@
   "discussions.actionBar.searchInfoSearching": "Поиск...",
   "discussions.actionBar.clearSearch": "Наглядные результаты",
   "discussion.posts.actionBar.add": "Добавить сообщение",
+  "discussion.posts.actionBar.addMobile": "Добавлять",
   "discussion.posts.actionBar.close": "Закрывать",
   "discussions.post.author.anonymous": "анонимный",
   "discussions.post.addResponse": "Добавить ответ",

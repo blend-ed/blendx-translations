@@ -143,6 +143,7 @@
   "discussions.actionBar.searchInfoSearching": "검색...",
   "discussions.actionBar.clearSearch": "명확한 결과",
   "discussion.posts.actionBar.add": "게시물 추가",
+  "discussion.posts.actionBar.addMobile": "더하다",
   "discussion.posts.actionBar.close": "닫다",
   "discussions.post.author.anonymous": "익명의",
   "discussions.post.addResponse": "응답 추가",

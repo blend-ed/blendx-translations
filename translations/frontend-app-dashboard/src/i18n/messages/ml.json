@@ -92,6 +92,7 @@
   "dashboard.page.upcomingEvents": "വരാനിരിക്കുന്ന സംഭവങ്ങൾ",
   "dashboard.page.courses": "കോഴ്സുകൾ",
   "dashboard.page.programs": "പ്രോഗ്രാമുകൾ",
+  "dashboard.page.myCourses": "എന്റെ കോഴ്സുകള്",
   "pages.program-single.courses": "കോഴ്സുകൾ",
   "pages.program-single.addToCart": "കാർട്ടിലേക്ക് ചേർക്കുക",
   "pages.program-single.removeFromCart": "കാർട്ടിൽ നിന്ന് നീക്കം ചെയ്യുക",

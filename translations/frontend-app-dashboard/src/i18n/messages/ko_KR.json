@@ -92,6 +92,7 @@
   "dashboard.page.upcomingEvents": "다가오는 이벤트",
   "dashboard.page.courses": "코스",
   "dashboard.page.programs": "프로그램",
+  "dashboard.page.myCourses": "내 코스",
   "pages.program-single.courses": "코스",
   "pages.program-single.addToCart": "장바구니에 넣기",
   "pages.program-single.removeFromCart": "장바구니에서 제거",

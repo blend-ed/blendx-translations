@@ -143,6 +143,7 @@
   "discussions.actionBar.searchInfoSearching": "തിരയൽ...",
   "discussions.actionBar.clearSearch": "വ്യക്തമായ ഫലങ്ങൾ",
   "discussion.posts.actionBar.add": "ഒരു പോസ്റ്റ് ചേർക്കുക",
+  "discussion.posts.actionBar.addMobile": "ചേർക്കുക",
   "discussion.posts.actionBar.close": "അടയ്ക്കുക",
   "discussions.post.author.anonymous": "Anonymous",
   "discussions.post.addResponse": "ഉത്തരം ചേർക്കുക",

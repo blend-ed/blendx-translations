@@ -143,6 +143,7 @@
   "discussions.actionBar.searchInfoSearching": "Recherche...",
   "discussions.actionBar.clearSearch": "Des résultats clairs",
   "discussion.posts.actionBar.add": "Ajouter un message",
+  "discussion.posts.actionBar.addMobile": "Ajouter",
   "discussion.posts.actionBar.close": "Fermer",
   "discussions.post.author.anonymous": "anonyme",
   "discussions.post.addResponse": "Ajouter une réponse",

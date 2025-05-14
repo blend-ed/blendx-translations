@@ -143,6 +143,7 @@
   "discussions.actionBar.searchInfoSearching": "Minucioso...",
   "discussions.actionBar.clearSearch": "Resultados claros",
   "discussion.posts.actionBar.add": "Añadir una publicación",
+  "discussion.posts.actionBar.addMobile": "Agregar",
   "discussion.posts.actionBar.close": "Cerrar",
   "discussions.post.author.anonymous": "anónimo",
   "discussions.post.addResponse": "Agregar respuesta",
