@@ -524,6 +524,7 @@
   "users.drawer.addUser.tooltip": "उपयोगकर्ताओं को सीधे अपने संगठन में जोड़ना",
   "users.drawer.invite.tooltip": "अपने संगठन में शामिल होने के लिए उपयोगकर्ताओं को ईमेल आमंत्रण भेजना",
   "users.close": "बंद करना",
+  "users.csvSomeInvalidEntries": "CSV फ़ाइल में कुछ प्रविष्टियाँ अमान्य थीं और छोड़ दी गई हैं",
   "users.loading": "लोड।।।",
   "users.teams": "टीमों",
   "users.team": "टीम",

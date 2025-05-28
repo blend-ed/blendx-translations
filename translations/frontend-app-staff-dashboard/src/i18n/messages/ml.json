@@ -524,6 +524,7 @@
   "users.drawer.addUser.tooltip": "നിങ്ങളുടെ ഓർഗനൈസേഷനിലേക്ക് നേരിട്ട് ഉപയോക്താക്കളെ ചേർക്കുക",
   "users.drawer.invite.tooltip": "നിങ്ങളുടെ ഓർഗനൈസേഷനിൽ ചേരാൻ ഉപയോക്താക്കൾക്ക് ഇമെയിൽ ക്ഷണങ്ങൾ അയയ്ക്കുക",
   "users.close": "അടയ്ക്കുക",
+  "users.csvSomeInvalidEntries": "CSV ഫയലിലെ ചില എൻട്രികൾ അസാധുവാണ്, അവ ഒഴിവാക്കപ്പെട്ടിരിക്കുന്നു",
   "users.loading": "ലോഡിംഗ്...",
   "users.teams": "ടീമുകള്",
   "users.team": "ടീം",

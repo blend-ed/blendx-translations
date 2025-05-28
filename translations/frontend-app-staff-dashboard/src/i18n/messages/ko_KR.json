@@ -524,6 +524,7 @@
   "users.drawer.addUser.tooltip": "조직에 직접 사용자 추가",
   "users.drawer.invite.tooltip": "사용자에게 조직에 가입하도록 이메일 초대 보내기",
   "users.close": "닫다",
+  "users.csvSomeInvalidEntries": "CSV 파일의 일부 항목이 잘못되어 건너뛰었습니다.",
   "users.loading": "로드...",
   "users.teams": "팀",
   "users.team": "팀",

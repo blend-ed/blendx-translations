@@ -524,6 +524,7 @@
   "users.drawer.addUser.tooltip": "Ajouter des utilisateurs directement à votre organisation",
   "users.drawer.invite.tooltip": "Envoyez des invitations par e-mail aux utilisateurs pour qu’ils rejoignent votre organisation",
   "users.close": "Fermer",
+  "users.csvSomeInvalidEntries": "Certaines entrées du fichier CSV n’étaient pas valides et ont été ignorées",
   "users.loading": "Chargement...",
   "users.teams": "Équipes",
   "users.team": "Équipe",

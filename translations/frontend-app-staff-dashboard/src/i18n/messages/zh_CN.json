@@ -524,6 +524,7 @@
   "users.drawer.addUser.tooltip": "将用户直接添加到您的组织",
   "users.drawer.invite.tooltip": "向用户发送电子邮件邀请以加入您的组织",
   "users.close": "关闭",
+  "users.csvSomeInvalidEntries": "CSV 文件中的某些条目无效，已被跳过",
   "users.loading": "装载。。。",
   "users.teams": "团队",
   "users.team": "团队",

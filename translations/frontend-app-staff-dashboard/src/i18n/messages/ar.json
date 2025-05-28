@@ -524,6 +524,7 @@
   "users.drawer.addUser.tooltip": "إضافة مستخدمين مباشرة إلى مؤسستك",
   "users.drawer.invite.tooltip": "إرسال دعوات عبر البريد الإلكتروني إلى المستخدمين للانضمام إلى مؤسستك",
   "users.close": "غلق",
+  "users.csvSomeInvalidEntries": "كانت بعض الإدخالات في ملف CSV غير صالحة وتم تخطيها",
   "users.loading": "تحميل...",
   "users.teams": "افرقه",
   "users.team": "فريق",
