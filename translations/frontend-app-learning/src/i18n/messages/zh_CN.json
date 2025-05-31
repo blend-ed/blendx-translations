@@ -286,6 +286,7 @@
   "progress.weight": "重量",
   "progress.weightedGrade": "加权等级",
   "progress.weightedGradeSummary": "您当前的加权成绩总结",
+  "progress.learningPath": "学习路径",
   "progress.footnotes.droppableAssignments": "最低的 {numDroppable，复数，一个{# {assignmentType} 分数是} 其他{# {assignmentType} 分数是}}丢弃的。",
   "progress.ungradedAlert": "有关课程未评分方面的进度，请查看您的 {outlineLink}。",
   "learn.coursewareSerch.openAction": "在本课程中搜索",

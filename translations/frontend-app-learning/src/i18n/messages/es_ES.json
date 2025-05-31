@@ -286,6 +286,7 @@
   "progress.weight": "Peso",
   "progress.weightedGrade": "Grado ponderado",
   "progress.weightedGradeSummary": "Su resumen de calificaciones ponderadas actual",
+  "progress.learningPath": "Ruta de aprendizaje",
   "progress.footnotes.droppableAssignments": "La puntuación más baja de {numDroppable, plural, one{# {assignmentType} es} otras puntuaciones {# {assignmentType} son}} eliminadas.",
   "progress.ungradedAlert": "Para ver el progreso en los aspectos no calificados del curso, consulte su {outlineLink}.",
   "learn.coursewareSerch.openAction": "Buscar dentro de este curso",

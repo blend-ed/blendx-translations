@@ -286,6 +286,7 @@
   "progress.weight": "ثقل",
   "progress.weightedGrade": "درجة مرجحة",
   "progress.weightedGradeSummary": "ملخص التقدير المرجح الحالي",
+  "progress.learningPath": "مسار التعلم",
   "progress.footnotes.droppableAssignments": "أقل درجة {numDroppable، جمع، واحدة{# {assignmentType} هي} أخرى{# {assignmentType} يتم إسقاطها} الدرجات.",
   "progress.ungradedAlert": "للتقدم في الجوانب غير المدرجة من المقرر الدراسي، اعرض {outlineLink}.",
   "learn.coursewareSerch.openAction": "البحث داخل هذه الدورة التدريبية",

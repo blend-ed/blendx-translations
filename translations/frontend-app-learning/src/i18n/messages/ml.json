@@ -286,6 +286,7 @@
   "progress.weight": "ഭാരം",
   "progress.weightedGrade": "വെയ്റ്റഡ് ഗ്രേഡ്",
   "progress.weightedGradeSummary": "നിങ്ങളുടെ നിലവിലെ വെയ്റ്റഡ് ഗ്രേഡ് സംഗ്രഹം",
+  "progress.learningPath": "പഠന പാത",
   "progress.footnotes.droppableAssignments": "ഏറ്റവും കുറഞ്ഞ {numDroppable, plural, one{# {assignmentType} സ്കോർ} മറ്റ് {# {അസൈൻമെന്റ്ടൈപ്പ്} സ്കോറുകൾ ഒഴിവാക്കപ്പെടുന്നു.",
   "progress.ungradedAlert": "കോഴ്സിന്റെ അപ്ഗ്രേഡ് ചെയ്യാത്ത വശങ്ങളെക്കുറിച്ചുള്ള പുരോഗതിക്ക്, നിങ്ങളുടെ {outlineLink} കാണുക.",
   "learn.coursewareSerch.openAction": "ഈ കോഴ് സിനുള്ളിൽ തിരയുക",

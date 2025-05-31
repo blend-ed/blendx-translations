@@ -286,6 +286,7 @@
   "progress.weight": "Poids",
   "progress.weightedGrade": "Note pondérée",
   "progress.weightedGradeSummary": "Votre sommaire de note pondéré actuel",
+  "progress.learningPath": "Parcours d’apprentissage",
   "progress.footnotes.droppableAssignments": "Le score le plus bas {numDroppable, pluriel, un{# {assignmentType} est} les scores autres{# {assignmentType} sont}} abandonnés.",
   "progress.ungradedAlert": "Pour progresser sur les aspects non notés du cours, consultez votre {outlineLink}.",
   "learn.coursewareSerch.openAction": "Recherche dans ce cours",

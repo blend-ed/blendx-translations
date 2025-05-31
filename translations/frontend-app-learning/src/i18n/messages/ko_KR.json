@@ -286,6 +286,7 @@
   "progress.weight": "무게",
   "progress.weightedGrade": "가중 등급",
   "progress.weightedGradeSummary": "현재 가중치가 적용된 성적 요약",
+  "progress.learningPath": "학습 경로",
   "progress.footnotes.droppableAssignments": "가장 낮은 {numDroppable, plural, one{# {assignmentType} 점수는} other{# {assignmentType} 점수는}} 삭제됩니다.",
   "progress.ungradedAlert": "코스의 채점되지 않은 측면에 대한 진척 상황은 {outlineLink}를 참조하십시오.",
   "learn.coursewareSerch.openAction": "이 과정 내에서 검색",

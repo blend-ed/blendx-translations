@@ -286,6 +286,7 @@
   "progress.weight": "Вес",
   "progress.weightedGrade": "Взвешенный уклон",
   "progress.weightedGradeSummary": "Текущая взвешенная сводка оценок",
+  "progress.learningPath": "Схема обучения",
   "progress.footnotes.droppableAssignments": "Самый низкий балл {numDroppable, множественное число, один{# {assignmentType} балл есть} другой{# {assignmentType} отброшен}}.",
   "progress.ungradedAlert": "Чтобы узнать о прогрессе по неоцененным аспектам курса, просмотрите свою {outlineLink}.",
   "learn.coursewareSerch.openAction": "Поиск по этому курсу",

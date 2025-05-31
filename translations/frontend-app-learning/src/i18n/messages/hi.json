@@ -286,6 +286,7 @@
   "progress.weight": "वजन",
   "progress.weightedGrade": "भारित ग्रेड",
   "progress.weightedGradeSummary": "आपका वर्तमान भारित ग्रेड सारांश",
+  "progress.learningPath": "प्रशिक्षण पथ",
   "progress.footnotes.droppableAssignments": "सबसे कम {numDroppable, plural, one{# {assignmentType} स्कोर है} other{# {assignmentType} स्कोर हैं}} गिराए गए हैं।",
   "progress.ungradedAlert": "पाठ्यक्रम के अनग्रेडेड पहलुओं पर प्रगति के लिए, अपना {रूपरेखालिंक} देखें।",
   "learn.coursewareSerch.openAction": "इस पाठ्यक्रम के भीतर खोजें",
