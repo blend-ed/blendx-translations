@@ -1006,6 +1006,7 @@
   "enrollments.table.column.audit": "Auditoría",
   "enrollments.table.column.pending": "Pendiente",
   "enrollments.table.column.active": "Activo",
+  "enrollments.table.column.invited": "Invitado",
   "course-authoring.course-updates.header.title": "Actualizaciones del curso",
   "course-authoring.course-updates.header.subtitle": "Contenido",
   "course-authoring.course-updates.section-info": "Utilice las actualizaciones del curso para notificar a los alumnos sobre fechas o exámenes importantes, resaltar debates concretos en los foros, anunciar cambios en el horario y responder a las preguntas de los alumnos.",

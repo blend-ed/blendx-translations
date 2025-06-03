@@ -1006,6 +1006,7 @@
   "enrollments.table.column.audit": "مراجعه الحسابات",
   "enrollments.table.column.pending": "المعلقه",
   "enrollments.table.column.active": "نشط",
+  "enrollments.table.column.invited": "مدعو",
   "course-authoring.course-updates.header.title": "تحديثات المقرر الدراسي",
   "course-authoring.course-updates.header.subtitle": "محتوى",
   "course-authoring.course-updates.section-info": "استخدم تحديثات المقرر الدراسي لإعلام المتعلمين بالتواريخ أو الامتحانات المهمة، وتسليط الضوء على مناقشات معينة في المنتديات، والإعلان عن تغييرات الجدول الزمني، والرد على أسئلة المتعلم.",
