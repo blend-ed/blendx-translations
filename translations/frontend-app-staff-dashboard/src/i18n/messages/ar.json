@@ -401,6 +401,8 @@
   "staff.program.create.about.hint": "نبذة عن البرنامج يجب أن يتراوح بين 15 و 400 حرف",
   "organizations.select.header": "حدد مؤسسة",
   "organizations.create.header": "إنشاء مؤسسة جديدة",
+  "organizations.search.placeholder": "ابحث عن مؤسسة...",
+  "organizations.no.organizations": "لم يتم العثور على مؤسسات",
   "ai.studio.welcome.title": "مرحبا بكم في الذكاء الاصطناعي Studio!",
   "ai.studio.welcome.description": "قم بإنشاء دورات تدريبية جذابة دون عناء بمساعدة الذكاء الاصطناعي. ابدأ بإدخال موضوع المقرر الدراسي والوصف أدناه.",
   "ai.studio.welcome.tips.title": "النصائح:",

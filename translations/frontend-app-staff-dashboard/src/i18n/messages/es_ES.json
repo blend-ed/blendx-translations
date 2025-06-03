@@ -401,6 +401,8 @@
   "staff.program.create.about.hint": "Sobre el programa debe tener entre 15 y 400 caracteres",
   "organizations.select.header": "Seleccione una organización",
   "organizations.create.header": "Crear nueva organización",
+  "organizations.search.placeholder": "Buscar organización...",
+  "organizations.no.organizations": "No se han encontrado organizaciones",
   "ai.studio.welcome.title": "¡Te damos la bienvenida a AI Studio!",
   "ai.studio.welcome.description": "Crea cursos atractivos sin esfuerzo con la ayuda de la IA. Comience ingresando el tema de su curso y la descripción a continuación.",
   "ai.studio.welcome.tips.title": "Consejos:",

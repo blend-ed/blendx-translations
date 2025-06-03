@@ -135,6 +135,8 @@
   "pages.learning.learner-program.description": "Descripción",
   "pages.learning.learner-program.noDescriptionFound": "No se ha encontrado ninguna descripción",
   "organizations.select.header": "Seleccione una organización",
+  "organizations.search.placeholder": "Buscar organización...",
+  "organizations.no.organizations": "No se han encontrado organizaciones",
   "pages.discover.searchHeading": "Búsqueda de nuevos cursos",
   "pages.discover.searchPlaceholder": "Buscar...",
   "pages.discover.noResultsFound": "No se han encontrado resultados",

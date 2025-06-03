@@ -135,6 +135,8 @@
   "pages.learning.learner-program.description": "وصف",
   "pages.learning.learner-program.noDescriptionFound": "لم يتم العثور على وصف",
   "organizations.select.header": "حدد مؤسسة",
+  "organizations.search.placeholder": "ابحث عن مؤسسة...",
+  "organizations.no.organizations": "لم يتم العثور على مؤسسات",
   "pages.discover.searchHeading": "البحث عن مقررات دراسية جديدة",
   "pages.discover.searchPlaceholder": "بحث...",
   "pages.discover.noResultsFound": "لم يتم العثور على نتائج",
