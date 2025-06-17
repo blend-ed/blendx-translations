@@ -200,6 +200,7 @@
   "components.support.bugPlaceholder": "اشرح الخطأ الذي وجدته بالتفصيل",
   "components.support.featurePlaceholder": "إذا كان لديك أي طلب ميزة ، فيرجى شرحه بالتفصيل",
   "components.support.otherPlaceholder": "تواصل معنا إذا كانت هناك أي مشكلات أو ملاحظات أخرى",
+  "components.support.ticketTitleRequired": "يجب أن يكون لديك عنوان للتذكرة",
   "components.common.submitButton": "إرسال",
   "components.progressCard.ongoingCourses": "الدورات الجارية",
   "components.progressCard.completedCourses": "الدورات المكتملة",
