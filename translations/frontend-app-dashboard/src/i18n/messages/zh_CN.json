@@ -256,6 +256,7 @@
   "components.courseExploreCard.started": "开始日期 {startDate}",
   "components.courseExploreCard.notAvailable": "不可用于注册",
   "components.courseExploreCard.tags": "程序标签",
+  "components.support.ticketTitleRequired": "门票名称为必填项",
   "mobile.dashboard.page.home": "家",
   "mobile.dashboard.page.discover": "发现",
   "mobile.dashboard.page.my-learning": "我的学习",

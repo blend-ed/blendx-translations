@@ -256,6 +256,7 @@
   "components.courseExploreCard.started": "Начато {startDate}",
   "components.courseExploreCard.notAvailable": "Недоступно для зачисления",
   "components.courseExploreCard.tags": "Теги программы",
+  "components.support.ticketTitleRequired": "Требуется название билета",
   "mobile.dashboard.page.home": "Дом",
   "mobile.dashboard.page.discover": "Обнаруживать",
   "mobile.dashboard.page.my-learning": "Мое обучение",

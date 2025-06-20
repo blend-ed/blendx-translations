@@ -256,6 +256,7 @@
   "components.courseExploreCard.started": "{startDate} ൽ ആരംഭിച്ചു",
   "components.courseExploreCard.notAvailable": "എൻറോൾമെന്റിനായി ലഭ്യമല്ല",
   "components.courseExploreCard.tags": "പ്രോഗ്രാം ടാഗുകൾ",
+  "components.support.ticketTitleRequired": "ടിക്കറ്റ് ശീർഷകം ആവശ്യമാണ്",
   "mobile.dashboard.page.home": "വീട്",
   "mobile.dashboard.page.discover": "കണ്ടെത്തൽ",
   "mobile.dashboard.page.my-learning": "എന്റെ പഠനം",

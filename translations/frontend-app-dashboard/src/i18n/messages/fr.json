@@ -256,6 +256,7 @@
   "components.courseExploreCard.started": "Démarré le {startDate}",
   "components.courseExploreCard.notAvailable": "Non disponible pour l’inscription",
   "components.courseExploreCard.tags": "Balises de programme",
+  "components.support.ticketTitleRequired": "Le titre du billet est requis",
   "mobile.dashboard.page.home": "Domicile",
   "mobile.dashboard.page.discover": "Découvrir",
   "mobile.dashboard.page.my-learning": "Mon apprentissage",

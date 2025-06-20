@@ -256,6 +256,7 @@
   "components.courseExploreCard.started": "{startDate}에 시작함",
   "components.courseExploreCard.notAvailable": "등록에 사용할 수 없음",
   "components.courseExploreCard.tags": "프로그램 태그",
+  "components.support.ticketTitleRequired": "티켓 제목이 필요합니다.",
   "mobile.dashboard.page.home": "집",
   "mobile.dashboard.page.discover": "발견하다",
   "mobile.dashboard.page.my-learning": "나의 학습",

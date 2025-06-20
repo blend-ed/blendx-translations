@@ -256,6 +256,7 @@
   "components.courseExploreCard.started": "{startDate} को प्रारंभ किया गया",
   "components.courseExploreCard.notAvailable": "नामांकन के लिए उपलब्ध नहीं है",
   "components.courseExploreCard.tags": "कार्यक्रम टैग",
+  "components.support.ticketTitleRequired": "टिकट शीर्षक की आवश्यकता है",
   "mobile.dashboard.page.home": "घर",
   "mobile.dashboard.page.discover": "खोजना",
   "mobile.dashboard.page.my-learning": "मेरी सीख",
