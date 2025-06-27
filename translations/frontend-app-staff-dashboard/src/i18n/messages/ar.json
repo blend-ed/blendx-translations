@@ -1078,5 +1078,10 @@
   "staff.dashboard.menu.support": "دعم",
   "staff.dashboard.menu.logout": "تسجيل الخروج",
   "staff.dashboard.menu.aiStudio": "استوديو الذكاء الاصطناعي",
-  "example.message": "تثبت هذه الرسالة أن i18n يعمل."
+  "example.message": "تثبت هذه الرسالة أن i18n يعمل.",
+  "staff.name": "اسم",
+  "staff.email": "البريد الإلكتروني",
+  "staff.username": "اسم المستخدم",
+  "staff.joined": "تاريخ الانضمام",
+  "staff.permissions": "الصلاحيات"
 }
