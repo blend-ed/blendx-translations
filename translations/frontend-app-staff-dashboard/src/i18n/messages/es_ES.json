@@ -1126,5 +1126,10 @@
   "staff.dashboard.menu.support": "Apoyo",
   "staff.dashboard.menu.logout": "Cerrar sesión",
   "staff.dashboard.menu.aiStudio": "Estudio de IA",
-  "example.message": "Este mensaje demuestra que i18n está funcionando."
+  "example.message": "Este mensaje demuestra que i18n está funcionando.",
+  "staff.name": "Nombre",
+  "staff.email": "Correo electrónico",
+  "staff.username": "Nombre de usuario",
+  "staff.joined": "Fecha de incorporación",
+  "staff.permissions": "Permisos"
 }
