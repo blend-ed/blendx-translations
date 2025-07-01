@@ -200,7 +200,6 @@
   "components.support.bugPlaceholder": "Explique el error que ha encontrado en detalle",
   "components.support.featurePlaceholder": "Si tiene alguna solicitud de función, explíquela en detalle",
   "components.support.otherPlaceholder": "Comunícate con nosotros si tienes algún otro problema o comentario.",
-  "components.support.ticketTitleRequired": "Debes tener un título para el ticket",
   "components.common.submitButton": "Enviar",
   "components.progressCard.ongoingCourses": "Cursos Continuos",
   "components.progressCard.completedCourses": "Cursos completados",
