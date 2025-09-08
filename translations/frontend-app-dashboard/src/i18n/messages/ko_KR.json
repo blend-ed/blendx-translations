@@ -62,6 +62,7 @@
   "organizations.select.header": "조직 선택",
   "organizations.search.placeholder": "조직 검색",
   "organizations.no.organizations": "조직을 찾을 수 없습니다.",
+  "organizations.no.matching.organization": "이 과정은 귀하가 속한 조직의 일부가 아닙니다. 필수 조직: \"{orgName}\"",
   "pages.library.title": "문서 라이브러리",
   "pages.library.description": "팀과 공유된 문서에 액세스",
   "pages.library.noDocumentsFound": "문서를 찾을 수 없습니다.",
@@ -256,8 +257,9 @@
   "components.courseExploreCard.notAvailable": "등록에 사용할 수 없음",
   "components.courseExploreCard.tags": "프로그램 태그",
   "components.support.ticketTitleRequired": "티켓 제목이 필요합니다.",
-  "components.courseExploreCard.courseModeTitle": "코스 모드",
+  "components.courseExploreCard.enrollmentTrackTitle": "{count, plural, one {Enrollment Track} 다른 {Enrollment Tracks}}",
   "components.courseExploreCard.updateCourseMode": "코스 모드 업데이트",
+  "components.courseExploreCard.enrollmentNotStarted": "등록이 시작되지 않음",
   "components.learnerDocumentCard.lastUpdated": "마지막 업데이트: {날짜}",
   "components.learnerDocumentCard.download": "다운로드"
 }

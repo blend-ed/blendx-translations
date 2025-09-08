@@ -62,6 +62,7 @@
   "organizations.select.header": "Выберите организацию",
   "organizations.search.placeholder": "Поиск организации",
   "organizations.no.organizations": "Организации не найдены",
+  "organizations.no.matching.organization": "Курс не является частью каких-либо организаций, в которых вы состоите. Требуемая организация: \"{orgName}\"",
   "pages.library.title": "Библиотека документов",
   "pages.library.description": "Доступ к документам, к которым предоставлен общий доступ вашим рабочим группам",
   "pages.library.noDocumentsFound": "Документы не найдены",
@@ -256,8 +257,9 @@
   "components.courseExploreCard.notAvailable": "Недоступно для зачисления",
   "components.courseExploreCard.tags": "Теги программы",
   "components.support.ticketTitleRequired": "Требуется название билета",
-  "components.courseExploreCard.courseModeTitle": "Режим курса",
+  "components.courseExploreCard.enrollmentTrackTitle": "{количество, множественное число, один {Путь зачисления} другой {Путь зачисления}}",
   "components.courseExploreCard.updateCourseMode": "Обновление режима курса",
+  "components.courseExploreCard.enrollmentNotStarted": "Зачисление не начато",
   "components.learnerDocumentCard.lastUpdated": "Последнее обновление: {date}",
   "components.learnerDocumentCard.download": "Загружать"
 }

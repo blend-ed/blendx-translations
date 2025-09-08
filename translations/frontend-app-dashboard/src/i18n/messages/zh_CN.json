@@ -62,6 +62,7 @@
   "organizations.select.header": "选择组织",
   "organizations.search.placeholder": "搜索组织",
   "organizations.no.organizations": "未找到组织",
+  "organizations.no.matching.organization": "该课程不属于您所属的任何组织。所需组织：“{orgName}”",
   "pages.library.title": "文档库",
   "pages.library.description": "访问与团队共享的文档",
   "pages.library.noDocumentsFound": "未找到文档",
@@ -256,8 +257,9 @@
   "components.courseExploreCard.notAvailable": "不可用于注册",
   "components.courseExploreCard.tags": "程序标签",
   "components.support.ticketTitleRequired": "需要提供票名",
-  "components.courseExploreCard.courseModeTitle": "课程模式",
+  "components.courseExploreCard.enrollmentTrackTitle": "{count，复数，一个 {注册轨道} 其他 {注册轨道}}",
   "components.courseExploreCard.updateCourseMode": "更新课程模式",
+  "components.courseExploreCard.enrollmentNotStarted": "注册未开始",
   "components.learnerDocumentCard.lastUpdated": "上次更新时间：{date}",
   "components.learnerDocumentCard.download": "下载"
 }

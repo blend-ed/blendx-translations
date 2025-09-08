@@ -62,6 +62,7 @@
   "organizations.select.header": "အဖွဲ့အစည်းတစ်ခုကို ရွေးပါ",
   "organizations.search.placeholder": "အဖွဲ့အစည်းတစ်ခုကို ရှာဖွေပါ",
   "organizations.no.organizations": "အဖွဲ့အစည်း များ မ တွေ့ ရှိ ပါ",
+  "organizations.no.matching.organization": "သင်တန်းသည် သင်ပါဝင်သော မည်သည့်အဖွဲ့အစည်း၏ အစိတ်အပိုင်းမဟုတ်ပါ။ လိုအပ်သော အဖွဲ့အစည်း: \"{orgName}\"",
   "pages.library.title": "စာရွက်စာတမ်း စာကြည့်တိုက်",
   "pages.library.description": "သင့်အသင်းများနှင့် ဝေမျှထားသော စာရွက်စာတမ်းများကို အသုံးပြုပါ",
   "pages.library.noDocumentsFound": "စာရွက်စာတမ်း များ မ တွေ့ ရှိ ပါ",
@@ -256,8 +257,9 @@
   "components.courseExploreCard.notAvailable": "စာရင်းသွင်းရန် မရနိုင်ပါ",
   "components.courseExploreCard.tags": "ပရိုဂရမ် အမှတ်အသားများ",
   "components.support.ticketTitleRequired": "လက်မှတ် ခေါင်းစဉ် လိုအပ် သည်",
-  "components.courseExploreCard.courseModeTitle": "သင်တန်းပုံစံ",
+  "components.courseExploreCard.enrollmentTrackTitle": "{count, plural, one {Enrollment Track} other {Enrollment Tracks}}",
   "components.courseExploreCard.updateCourseMode": "သင်တန်းပုံစံကို ပြင်ဆင်ပါ",
+  "components.courseExploreCard.enrollmentNotStarted": "စာရင်းမစတင်သေး",
   "components.learnerDocumentCard.lastUpdated": "နောက်ဆုံး မွမ်းမံမှု: {ရက်စွဲ}",
   "components.learnerDocumentCard.download": "ကူးယူပါ"
 }

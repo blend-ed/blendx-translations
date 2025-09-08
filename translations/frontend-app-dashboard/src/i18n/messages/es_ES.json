@@ -62,6 +62,7 @@
   "organizations.select.header": "Seleccione una organización",
   "organizations.search.placeholder": "Buscar una organización",
   "organizations.no.organizations": "No se encontraron organizaciones",
+  "organizations.no.matching.organization": "El curso no forma parte de ninguna organización de la que usted forme parte. Organización requerida: \"{orgName}\"",
   "pages.library.title": "Biblioteca de documentos",
   "pages.library.description": "Acceder a documentos compartidos con tus equipos",
   "pages.library.noDocumentsFound": "No se han encontrado documentos",
@@ -256,8 +257,9 @@
   "components.courseExploreCard.notAvailable": "No disponible para inscripción",
   "components.courseExploreCard.tags": "Etiquetas del programa",
   "components.support.ticketTitleRequired": "Se requiere título del boleto",
-  "components.courseExploreCard.courseModeTitle": "Modo de curso",
+  "components.courseExploreCard.enrollmentTrackTitle": "{count, plural, one {Enrollment Track} other {Enrollment Tracks}}",
   "components.courseExploreCard.updateCourseMode": "Actualizar el modo de curso",
+  "components.courseExploreCard.enrollmentNotStarted": "Inscripción no iniciada",
   "components.learnerDocumentCard.lastUpdated": "Última actualización: {fecha}",
   "components.learnerDocumentCard.download": "Descargar"
 }

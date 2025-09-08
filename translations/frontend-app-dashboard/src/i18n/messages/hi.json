@@ -62,6 +62,7 @@
   "organizations.select.header": "एक संगठन का चयन करें",
   "organizations.search.placeholder": "कोई संगठन खोजें",
   "organizations.no.organizations": "कोई संगठन नहीं मिला",
+  "organizations.no.matching.organization": "पाठ्यक्रम किसी भी संगठन का हिस्सा नहीं है जिसका आप हिस्सा हैं। आवश्यक संगठन: \"{orgName}\"",
   "pages.library.title": "दस्तावेज़ लायब्रेरी",
   "pages.library.description": "अपनी टीमों के साथ साझा किए गए दस्तावेज़ों तक पहुँचें",
   "pages.library.noDocumentsFound": "कोई दस्तावेज नहीं मिला",
@@ -256,8 +257,9 @@
   "components.courseExploreCard.notAvailable": "नामांकन के लिए उपलब्ध नहीं है",
   "components.courseExploreCard.tags": "कार्यक्रम टैग",
   "components.support.ticketTitleRequired": "टिकट शीर्षक की आवश्यकता है",
-  "components.courseExploreCard.courseModeTitle": "कोर्स मोड",
+  "components.courseExploreCard.enrollmentTrackTitle": "{गणना, बहुवचन, एक {नामांकन ट्रैक} अन्य {नामांकन ट्रैक}}",
   "components.courseExploreCard.updateCourseMode": "कोर्स मोड अपडेट करें",
+  "components.courseExploreCard.enrollmentNotStarted": "नामांकन शुरू नहीं हुआ",
   "components.learnerDocumentCard.lastUpdated": "अंतिम अद्यतन: {date}",
   "components.learnerDocumentCard.download": "डाउनलोड"
 }

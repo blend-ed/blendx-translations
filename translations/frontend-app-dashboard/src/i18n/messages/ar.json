@@ -62,6 +62,7 @@
   "organizations.select.header": "حدد مؤسسة",
   "organizations.search.placeholder": "البحث عن مؤسسة",
   "organizations.no.organizations": "لم يتم العثور على أي منظمات",
+  "organizations.no.matching.organization": "الدورة ليست جزءا من أي منظمات أنت جزء منها. المؤسسة المطلوبة: \"{orgName}\"",
   "pages.library.title": "مكتبة الوثائق",
   "pages.library.description": "الوصول إلى المستندات التي تمت مشاركتها مع فرقك",
   "pages.library.noDocumentsFound": "لم يتم العثور على وثائق",
@@ -256,8 +257,9 @@
   "components.courseExploreCard.notAvailable": "غير متاح للتسجيل",
   "components.courseExploreCard.tags": "علامات البرنامج",
   "components.support.ticketTitleRequired": "عنوان التذكرة مطلوب",
-  "components.courseExploreCard.courseModeTitle": "وضع المقرر الدراسي",
+  "components.courseExploreCard.enrollmentTrackTitle": "{عدد، جمع، واحد {مسار التسجيل} {مسارات التسجيل}} أخرى {مسارات التسجيل}}",
   "components.courseExploreCard.updateCourseMode": "تحديث وضع المقرر الدراسي",
+  "components.courseExploreCard.enrollmentNotStarted": "لم يبدأ التسجيل",
   "components.learnerDocumentCard.lastUpdated": "آخر تحديث: {date}",
   "components.learnerDocumentCard.download": "تحميل"
 }
