@@ -261,5 +261,9 @@
   "components.courseExploreCard.updateCourseMode": "Actualizar el modo de curso",
   "components.courseExploreCard.enrollmentNotStarted": "Inscripción no iniciada",
   "components.learnerDocumentCard.lastUpdated": "Última actualización: {fecha}",
-  "components.learnerDocumentCard.download": "Descargar"
+  "components.learnerDocumentCard.download": "Descargar",
+  "components.eventCard.goToEvent": "Ir al evento",
+  "components.eventCard.viewAssignment": "Ver asignación",
+  "components.eventCard.viewCourse": "Ver curso",
+  "components.eventCard.viewCertificate": "Ver certificado"
 }

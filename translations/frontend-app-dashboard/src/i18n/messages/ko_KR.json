@@ -261,5 +261,9 @@
   "components.courseExploreCard.updateCourseMode": "코스 모드 업데이트",
   "components.courseExploreCard.enrollmentNotStarted": "등록이 시작되지 않음",
   "components.learnerDocumentCard.lastUpdated": "마지막 업데이트: {날짜}",
-  "components.learnerDocumentCard.download": "다운로드"
+  "components.learnerDocumentCard.download": "다운로드",
+  "components.eventCard.goToEvent": "이벤트로 이동",
+  "components.eventCard.viewAssignment": "과제 보기",
+  "components.eventCard.viewCourse": "코스 보기",
+  "components.eventCard.viewCertificate": "인증서 보기"
 }

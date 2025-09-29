@@ -261,5 +261,9 @@
   "components.courseExploreCard.updateCourseMode": "Обновление режима курса",
   "components.courseExploreCard.enrollmentNotStarted": "Зачисление не начато",
   "components.learnerDocumentCard.lastUpdated": "Последнее обновление: {date}",
-  "components.learnerDocumentCard.download": "Загружать"
+  "components.learnerDocumentCard.download": "Загружать",
+  "components.eventCard.goToEvent": "Перейти к событию",
+  "components.eventCard.viewAssignment": "Посмотреть задание",
+  "components.eventCard.viewCourse": "Посмотреть курс",
+  "components.eventCard.viewCertificate": "Посмотреть сертификат"
 }

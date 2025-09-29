@@ -261,5 +261,9 @@
   "components.courseExploreCard.updateCourseMode": "更新课程模式",
   "components.courseExploreCard.enrollmentNotStarted": "注册未开始",
   "components.learnerDocumentCard.lastUpdated": "上次更新时间：{date}",
-  "components.learnerDocumentCard.download": "下载"
+  "components.learnerDocumentCard.download": "下载",
+  "components.eventCard.goToEvent": "前往活动",
+  "components.eventCard.viewAssignment": "查看作业",
+  "components.eventCard.viewCourse": "查看课程",
+  "components.eventCard.viewCertificate": "查看证书"
 }
