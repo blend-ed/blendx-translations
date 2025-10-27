@@ -1,0 +1,14 @@
+{
+  "dashboard.page.home": "Home",
+  "dashboard.page.discover": "Discover",
+  "dashboard.page.discover.all": "All",
+  "dashboard.page.discover.wishlist": "Wishlist",
+  "dashboard.page.my-learning": "My Learning",
+  "dashboard.page.progress": "Progress",
+  "dashboard.page.schedule": "Schedule",
+  "dashboard.page.notifications": "Notifications",
+  "dashboard.page.support": "Support",
+  "dashboard.page.settings": "Settings",
+  "dashboard.page.help-support": "Help & Support",
+  "dashboard.page.logout": "Logout"
+}
