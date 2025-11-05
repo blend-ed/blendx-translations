@@ -34,6 +34,7 @@
   "BlendxCard.ongoing": "Actuel",
   "BlendxCard.beta": "Bêta",
   "BlendxCard.certificateEarned": "Certificat obtenu",
+  "BlendxCard.inviteOnly": "Sur invitation uniquement",
   "Table.search": "Rechercher {label}",
   "pgn.CardCarousel.scrollToPrevious": "Faites défiler jusqu’au précédent",
   "pgn.CardCarousel.scrollToNext": "Faites défiler jusqu’au suivant",
@@ -57,5 +58,7 @@
   "SideNavbar.logout": "Se déconnecter",
   "NotificationsMenu.notifications": "Notifications",
   "NotificationsMenu.noNotifications": "Pas de notifications",
-  "NotificationsMenu.seeAll": "Voir tout"
+  "NotificationsMenu.seeAll": "Voir tout",
+  "TextInput.copiedToClipboard": "Copié dans le presse-papiers",
+  "TextInput.failedToCopy": "Echec de la copie"
 }

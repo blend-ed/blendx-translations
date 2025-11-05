@@ -34,6 +34,7 @@
   "BlendxCard.ongoing": "Actual",
   "BlendxCard.beta": "Beta",
   "BlendxCard.certificateEarned": "Certificado obtenido",
+  "BlendxCard.inviteOnly": "Solo por invitación",
   "Table.search": "Buscar {etiqueta}",
   "pgn.CardCarousel.scrollToPrevious": "Desplazarse al anterior",
   "pgn.CardCarousel.scrollToNext": "Desplazarse al siguiente",
@@ -57,5 +58,7 @@
   "SideNavbar.logout": "Cerrar sesión",
   "NotificationsMenu.notifications": "Notificaciones",
   "NotificationsMenu.noNotifications": "Sin notificaciones",
-  "NotificationsMenu.seeAll": "Ver todo"
+  "NotificationsMenu.seeAll": "Ver todo",
+  "TextInput.copiedToClipboard": "Copiado al portapapeles",
+  "TextInput.failedToCopy": "Error al copiar"
 }

@@ -34,6 +34,7 @@
   "BlendxCard.ongoing": "持续",
   "BlendxCard.beta": "试用版",
   "BlendxCard.certificateEarned": "获得的证书",
+  "BlendxCard.inviteOnly": "仅限邀请",
   "Table.search": "搜索 {label}",
   "pgn.CardCarousel.scrollToPrevious": "滚动到上一个",
   "pgn.CardCarousel.scrollToNext": "滚动到下一页",
@@ -57,5 +58,7 @@
   "SideNavbar.logout": "注销",
   "NotificationsMenu.notifications": "通知",
   "NotificationsMenu.noNotifications": "无通知",
-  "NotificationsMenu.seeAll": "查看全部"
+  "NotificationsMenu.seeAll": "查看全部",
+  "TextInput.copiedToClipboard": "复制到剪贴板",
+  "TextInput.failedToCopy": "复制失败"
 }

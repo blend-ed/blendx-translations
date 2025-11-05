@@ -34,6 +34,7 @@
   "BlendxCard.ongoing": "지속적인",
   "BlendxCard.beta": "Beta",
   "BlendxCard.certificateEarned": "수료증 획득",
+  "BlendxCard.inviteOnly": "초대 전용",
   "Table.search": "{label} 검색",
   "pgn.CardCarousel.scrollToPrevious": "이전으로 스크롤",
   "pgn.CardCarousel.scrollToNext": "다음으로 스크롤",
@@ -57,5 +58,7 @@
   "SideNavbar.logout": "로그아웃",
   "NotificationsMenu.notifications": "알림을",
   "NotificationsMenu.noNotifications": "알림 없음",
-  "NotificationsMenu.seeAll": "모두 보기"
+  "NotificationsMenu.seeAll": "모두 보기",
+  "TextInput.copiedToClipboard": "클립보드에 복사됨",
+  "TextInput.failedToCopy": "복사 실패"
 }

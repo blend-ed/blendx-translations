@@ -34,6 +34,7 @@
   "BlendxCard.ongoing": "ဆက်လက်",
   "BlendxCard.beta": "ဘီတာ",
   "BlendxCard.certificateEarned": "ရရှိထားသော လက်မှတ်",
+  "BlendxCard.inviteOnly": "ဖိတ်ခေါ်ခြင်းသာရှိပါ",
   "Table.search": "{label} ကိုရှာဖွေပါ",
   "pgn.CardCarousel.scrollToPrevious": "ယခင်သို့ လှန်ပါ",
   "pgn.CardCarousel.scrollToNext": "နောက်တစ်ခုသို့ လှန်ပါ",
@@ -57,5 +58,7 @@
   "SideNavbar.logout": "ထွက်သွားပါ",
   "NotificationsMenu.notifications": "အသိပေးချက်များ",
   "NotificationsMenu.noNotifications": "အသိပေးချက်များ မရှိပါ",
-  "NotificationsMenu.seeAll": "အားလုံးကိုကြည့်ပါ"
+  "NotificationsMenu.seeAll": "အားလုံးကိုကြည့်ပါ",
+  "TextInput.copiedToClipboard": "Clipboard သို့ မိတ္တူကူးထားသည်",
+  "TextInput.failedToCopy": "ကူးယူရန် မအောင်မြင်ပါ"
 }

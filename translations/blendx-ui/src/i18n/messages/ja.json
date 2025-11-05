@@ -34,6 +34,7 @@
   "BlendxCard.ongoing": "進行 中",
   "BlendxCard.beta": "Beta",
   "BlendxCard.certificateEarned": "取得証明書",
+  "BlendxCard.inviteOnly": "招待のみ",
   "Table.search": "{label} を検索",
   "pgn.CardCarousel.scrollToPrevious": "前へスクロール",
   "pgn.CardCarousel.scrollToNext": "次へスクロール",
@@ -57,5 +58,7 @@
   "SideNavbar.logout": "ログアウトする",
   "NotificationsMenu.notifications": "通知",
   "NotificationsMenu.noNotifications": "通知なし",
-  "NotificationsMenu.seeAll": "すべて表示"
+  "NotificationsMenu.seeAll": "すべて表示",
+  "TextInput.copiedToClipboard": "クリップボードにコピー",
+  "TextInput.failedToCopy": "コピーに失敗しました"
 }

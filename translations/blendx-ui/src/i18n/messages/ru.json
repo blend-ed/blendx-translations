@@ -34,6 +34,7 @@
   "BlendxCard.ongoing": "Продолжающийся",
   "BlendxCard.beta": "Бета-версия",
   "BlendxCard.certificateEarned": "Полученный сертификат",
+  "BlendxCard.inviteOnly": "Только по приглашениям",
   "Table.search": "Поиск {label}",
   "pgn.CardCarousel.scrollToPrevious": "Пролистать до предыдущего",
   "pgn.CardCarousel.scrollToNext": "Прокрутите вниз",
@@ -57,5 +58,7 @@
   "SideNavbar.logout": "Выходить",
   "NotificationsMenu.notifications": "Уведомления",
   "NotificationsMenu.noNotifications": "Нет уведомлений",
-  "NotificationsMenu.seeAll": "Посмотреть все"
+  "NotificationsMenu.seeAll": "Посмотреть все",
+  "TextInput.copiedToClipboard": "Скопировано в буфер обмена",
+  "TextInput.failedToCopy": "Не удалось скопировать"
 }

@@ -34,6 +34,7 @@
   "BlendxCard.ongoing": "सतत",
   "BlendxCard.beta": "बीटा",
   "BlendxCard.certificateEarned": "प्रमाणपत्र अर्जित किया",
+  "BlendxCard.inviteOnly": "केवल आमंत्रित करें",
   "Table.search": "{लेबल} खोजें",
   "pgn.CardCarousel.scrollToPrevious": "पिछले तक स्क्रॉल करें",
   "pgn.CardCarousel.scrollToNext": "अगले तक स्क्रॉल करें",
@@ -57,5 +58,7 @@
   "SideNavbar.logout": "लॉग आउट करें",
   "NotificationsMenu.notifications": "सूचनाएँ",
   "NotificationsMenu.noNotifications": "कोई सूचना नहीं",
-  "NotificationsMenu.seeAll": "सभी देखें"
+  "NotificationsMenu.seeAll": "सभी देखें",
+  "TextInput.copiedToClipboard": "क्लिपबोर्ड पर कॉपी किया गया",
+  "TextInput.failedToCopy": "प्रतिलिपि बनाने में विफल रहा"
 }

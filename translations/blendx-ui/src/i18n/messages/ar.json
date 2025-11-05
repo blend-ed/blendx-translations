@@ -34,6 +34,7 @@
   "BlendxCard.ongoing": "الجاريه",
   "BlendxCard.beta": "الإصدار بيتا",
   "BlendxCard.certificateEarned": "الشهادة المكتسبة",
+  "BlendxCard.inviteOnly": "دعوة فقط",
   "Table.search": "البحث في {label}",
   "pgn.CardCarousel.scrollToPrevious": "انتقل إلى السابق",
   "pgn.CardCarousel.scrollToNext": "انتقل إلى التالي",
@@ -57,5 +58,7 @@
   "SideNavbar.logout": "تسجيل الخروج",
   "NotificationsMenu.notifications": "الاخطارات",
   "NotificationsMenu.noNotifications": "لا توجد إشعارات",
-  "NotificationsMenu.seeAll": "عرض الكل"
+  "NotificationsMenu.seeAll": "عرض الكل",
+  "TextInput.copiedToClipboard": "تم النسخ إلى الحافظة",
+  "TextInput.failedToCopy": "فشل النسخ"
 }
