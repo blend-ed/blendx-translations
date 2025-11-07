@@ -1726,6 +1726,7 @@
   "attendance.icon.present": "Presente",
   "attendance.icon.absent": "Ausente",
   "attendance.icon.future": "Fecha futura",
+  "attendance.icon.before-course-start": "Antes de la fecha de inicio del curso",
   "course-authoring.course-rerun.title": "Cree una repetición de",
   "course-authoring.course-rerun.actions.button.cancel": "Cancelar",
   "course-authoring.course-rerun.sidebar.section-1.title": "¿Cuándo comenzará la repetición de mi curso?",

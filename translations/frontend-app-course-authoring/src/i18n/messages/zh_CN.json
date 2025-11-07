@@ -1726,6 +1726,7 @@
   "attendance.icon.present": "目前",
   "attendance.icon.absent": "缺席",
   "attendance.icon.future": "未来日期",
+  "attendance.icon.before-course-start": "课程开始日期之前",
   "course-authoring.course-rerun.title": "创建",
   "course-authoring.course-rerun.actions.button.cancel": "取消",
   "course-authoring.course-rerun.sidebar.section-1.title": "我的课程何时开始重新运行？",

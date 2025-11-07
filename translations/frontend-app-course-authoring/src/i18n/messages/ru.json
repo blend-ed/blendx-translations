@@ -1726,6 +1726,7 @@
   "attendance.icon.present": "Присутствующий",
   "attendance.icon.absent": "Отсутствующий",
   "attendance.icon.future": "Будущая дата",
+  "attendance.icon.before-course-start": "До даты начала курса",
   "course-authoring.course-rerun.title": "Создание повторного запуска",
   "course-authoring.course-rerun.actions.button.cancel": "Отмена",
   "course-authoring.course-rerun.sidebar.section-1.title": "Когда начнется повторный запуск моего курса?",

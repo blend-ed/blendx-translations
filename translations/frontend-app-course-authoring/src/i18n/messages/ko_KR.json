@@ -1726,6 +1726,7 @@
   "attendance.icon.present": "선물",
   "attendance.icon.absent": "없는",
   "attendance.icon.future": "미래 날짜",
+  "attendance.icon.before-course-start": "코스 시작일 이전",
   "course-authoring.course-rerun.title": "의 재실행 생성",
   "course-authoring.course-rerun.actions.button.cancel": "취소",
   "course-authoring.course-rerun.sidebar.section-1.title": "강의 재실행은 언제 시작되나요?",
