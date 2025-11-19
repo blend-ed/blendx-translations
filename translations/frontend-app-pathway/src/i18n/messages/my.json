@@ -68,5 +68,6 @@
   "organizations.select.header": "အဖွဲ့အစည်းတစ်ခုကိုရွေးပါ",
   "organizations.search.placeholder": "အဖွဲ့အစည်းတစ်ခုကို ရှာဖွေပါ",
   "organizations.no.organizations": "အဖွဲ့အစည်း များ ကို မ တွေ့ ရှိ ပါ",
-  "organizations.no.matching.organization": "သင်တန်းသည် သင်ပါဝင်သော မည်သည့်အဖွဲ့အစည်းမဆို အစိတ်အပိုင်းမဟုတ်ပါ။ လိုအပ်သော အဖွဲ့အစည်း: \"{orgName}\""
+  "organizations.no.matching.organization": "သင်တန်းသည် သင်ပါဝင်သော မည်သည့်အဖွဲ့အစည်းမဆို အစိတ်အပိုင်းမဟုတ်ပါ။ လိုအပ်သော အဖွဲ့အစည်း: \"{orgName}\"",
+  "table.footer.seeAll": "အားလုံးကိုကြည့်ပါ"
 }

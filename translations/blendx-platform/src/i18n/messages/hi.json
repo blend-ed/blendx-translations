@@ -19,6 +19,8 @@
   "profile.education.levels.el": "प्राथमिक/प्राथमिक विद्यालय",
   "profile.education.levels.none": "कोई औपचारिक शिक्षा नहीं",
   "profile.education.levels.other": "अन्य शिक्षा",
+  "staff.dashboard.menu.capabilityModel": "क्षमता मॉडल",
+  "learner.dashboard.menu.analytics": "जारी रहना",
   "staff.dashboard.menu.salesAnalytics": "बिक्री विश्लेषिकी",
   "learner.dashboard.page.my-micro-learning": "माई माइक्रो लर्निंग",
   "learner.dashboard.page.home": "घर",
@@ -38,7 +40,6 @@
   "staff.dashboard.menu.authoring": "संलेखन",
   "staff.dashboard.menu.courses": "पाठ्यक्रम",
   "staff.dashboard.menu.programs": "प्रोग्राम",
-  "staff.dashboard.menu.learningPathway": "सीखने का मार्ग",
   "staff.dashboard.menu.taxonomies": "वर्गीकरण",
   "staff.dashboard.menu.libraries": "लायब्रेरीज़",
   "staff.dashboard.menu.library": "पुस्तकालय",
@@ -65,8 +66,11 @@
   "staff.dashboard.menu.logout": "लॉग आउट करें",
   "staff.dashboard.menu.aiStudio": "एआई स्टूडियो",
   "staff.dashboard.menu.about": "करीबन",
-  "staff.dashboard.menu.skillsAndCompetencies": "कौशल और दक्षताएं",
-  "staff.dashboard.menu.skillManagement": "कौशल प्रबंधन",
-  "staff.dashboard.menu.competencies": "योग्यता मानचित्रण",
-  "staff.pathway.menu.microLearning": "माइक्रो लर्निंग"
+  "staff.pathway.menu.skill": "निपुणता",
+  "staff.pathway.menu.competencies": "दक्षताओं",
+  "staff.pathway.menu.learningContent": "सीखने की सामग्री",
+  "staff.pathway.menu.knowledgeAtoms": "ज्ञान परमाणु",
+  "staff.pathway.menu.microLearning": "माइक्रो लर्निंग",
+  "staff.pathway.menu.learningPath": "सीखने का रास्ता",
+  "staff.pathway.menu.people": "लोग"
 }

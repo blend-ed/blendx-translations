@@ -68,5 +68,6 @@
   "organizations.select.header": "एक संगठन का चयन करें",
   "organizations.search.placeholder": "एक संगठन के लिए खोजें",
   "organizations.no.organizations": "कोई संगठन नहीं मिला",
-  "organizations.no.matching.organization": "पाठ्यक्रम किसी भी संगठन का हिस्सा नहीं है जिसका आप हिस्सा हैं। आवश्यक संगठन: \"{orgName}\""
+  "organizations.no.matching.organization": "पाठ्यक्रम किसी भी संगठन का हिस्सा नहीं है जिसका आप हिस्सा हैं। आवश्यक संगठन: \"{orgName}\"",
+  "table.footer.seeAll": "सभी देखें"
 }

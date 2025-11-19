@@ -19,6 +19,8 @@
   "profile.education.levels.el": "မူလတန်း/မူလတန်းကျောင်း",
   "profile.education.levels.none": "ပညာရေးမရှိ",
   "profile.education.levels.other": "အခြား ပညာရေး",
+  "staff.dashboard.menu.capabilityModel": "စွမ်းရည် ပုံစံ",
+  "learner.dashboard.menu.analytics": "တိုးတက်မှု",
   "staff.dashboard.menu.salesAnalytics": "အရောင်းအဝယ် ဆန်းစစ်မှု",
   "learner.dashboard.page.my-micro-learning": "ကျွန်ုပ်၏ အသေးစားသင်ယူမှု",
   "learner.dashboard.page.home": "အိမ်",
@@ -38,7 +40,6 @@
   "staff.dashboard.menu.authoring": "ရေးသားခြင်း",
   "staff.dashboard.menu.courses": "သင်တန်းများ",
   "staff.dashboard.menu.programs": "အစီအစဉ် များ",
-  "staff.dashboard.menu.learningPathway": "သင်ယူခြင်းလမ်းကြောင်း",
   "staff.dashboard.menu.taxonomies": "ခွဲခြား မှု",
   "staff.dashboard.menu.libraries": "စာကြည့်တိုက်များ",
   "staff.dashboard.menu.library": "စာကြည့်တိုက်",
@@ -65,8 +66,11 @@
   "staff.dashboard.menu.logout": "ထွက်သွားပါ",
   "staff.dashboard.menu.aiStudio": "AI စတူဒီယို",
   "staff.dashboard.menu.about": "အကြောင်း",
-  "staff.dashboard.menu.skillsAndCompetencies": "ကျွမ်းကျင်မှုနှင့် စွမ်းရည်များ",
-  "staff.dashboard.menu.skillManagement": "ကျွမ်းကျင်မှုစီမံခန့်ခွဲမှု",
-  "staff.dashboard.menu.competencies": "စွမ်းရည် မြေပုံ ရေးဆွဲ ခြင်း",
-  "staff.pathway.menu.microLearning": "အသေးစားသင်ယူခြင်း"
+  "staff.pathway.menu.skill": "ကျွမ်းကျင်မှု",
+  "staff.pathway.menu.competencies": "စွမ်းရည်",
+  "staff.pathway.menu.learningContent": "သင်ယူခြင်းအကြောင်းအရာ",
+  "staff.pathway.menu.knowledgeAtoms": "အသိပညာအက်တမ်",
+  "staff.pathway.menu.microLearning": "အသေးစားသင်ယူခြင်း",
+  "staff.pathway.menu.learningPath": "သင်ယူခြင်းလမ်းကြောင်း",
+  "staff.pathway.menu.people": "လူ များ"
 }
