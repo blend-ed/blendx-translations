@@ -1,9 +1,9 @@
 {
-  "NotificationsMenu.notifications": "सूचनाएँ",
+  "NotificationsMenu.notifications": "सूचनाएं",
   "NotificationsMenu.noNotifications": "कोई सूचना नहीं",
   "NotificationsMenu.seeAll": "सभी देखें",
   "pgn.Toast.closeLabel": "बंद करना",
-  "pgn.DataTable.SidebarFilters.title": "फ़िल्टर",
+  "pgn.DataTable.SidebarFilters.title": "फिल्टर",
   "pgn.DataTable.FilterStatus.clearFiltersText": "फ़िल्टर साफ़ करें",
   "pgn.DataTable.ExpandAll.collapseAllLabel": "सभी को संक्षिप्त करें",
   "pgn.DataTable.ExpandAll.expandAllLabel": "सभी का विस्तार करें",
@@ -36,8 +36,8 @@
   "pgn.FormAutosuggest.iconButtonClosed": "विकल्प मेनू बंद करें",
   "Table.search": "{लेबल} खोजें",
   "BlendxCard.linkCopiedToClipboard": "लिंक क्लिपबोर्ड पर कॉपी किया गया",
-  "BlendxCard.free": "उचित",
-  "BlendxCard.resume": "सार",
+  "BlendxCard.free": "नि: शुल्क",
+  "BlendxCard.resume": "सारांश",
   "BlendxCard.start": "कोर्स शुरू करें",
   "BlendxCard.edit": "पाठ्यक्रम संपादित करें",
   "BlendxCard.viewLive": "लाइव देखें",
@@ -47,7 +47,7 @@
   "BlendxCard.startedDate": "प्रारंभ: {startDate}",
   "BlendxCard.endDate": "अंत: {endDate}",
   "BlendxCard.endedDate": "समाप्त: {endDate}",
-  "BlendxCard.upcoming": "घटित",
+  "BlendxCard.upcoming": "आगामी",
   "BlendxCard.ongoing": "सतत",
   "BlendxCard.beta": "बीटा",
   "BlendxCard.certificateEarned": "प्रमाणपत्र अर्जित किया",
@@ -56,9 +56,9 @@
   "SideNavbar.viewProfile": "प्रोफ़ाइल देखें",
   "SideNavbar.switchToLearner": "शिक्षार्थी पर स्विच करें",
   "SideNavbar.organizations": "संगठनों",
-  "SideNavbar.admin": "शासन",
+  "SideNavbar.admin": "व्यवस्थापक",
   "SideNavbar.staff": "स्टाफ़",
   "SideNavbar.learner": "शिक्षार्थी",
   "SideNavbar.logout": "लॉग आउट करें",
-  "pgn.Alert.closeLabel": "हटा"
+  "pgn.Alert.closeLabel": "खारिज करें"
 }

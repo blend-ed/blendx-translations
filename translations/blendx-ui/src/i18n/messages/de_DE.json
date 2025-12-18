@@ -37,7 +37,7 @@
   "Table.search": "Suche {label}",
   "BlendxCard.linkCopiedToClipboard": "Link auf Klemmbrett kopiert",
   "BlendxCard.free": "Kostenlos",
-  "BlendxCard.resume": "Fortsetzen",
+  "BlendxCard.resume": "Lebenslauf",
   "BlendxCard.start": "Startkurs",
   "BlendxCard.edit": "Kurs bearbeiten",
   "BlendxCard.viewLive": "Live ansehen",
@@ -47,7 +47,7 @@
   "BlendxCard.startedDate": "Begonnen: {startDate}",
   "BlendxCard.endDate": "Ende: {endDate}",
   "BlendxCard.endedDate": "Ende: {endDate}",
-  "BlendxCard.upcoming": "Kommend",
+  "BlendxCard.upcoming": "Demnächst",
   "BlendxCard.ongoing": "Laufend",
   "BlendxCard.beta": "Beta",
   "BlendxCard.certificateEarned": "Erworbenes Zertifikat",
@@ -56,9 +56,9 @@
   "SideNavbar.viewProfile": "Profil anzeigen",
   "SideNavbar.switchToLearner": "Wechsel zum Lerner",
   "SideNavbar.organizations": "Organisationen",
-  "SideNavbar.admin": "Administrator",
+  "SideNavbar.admin": "Verwaltung",
   "SideNavbar.staff": "Personal",
   "SideNavbar.learner": "Lernender",
   "SideNavbar.logout": "Ausloggen",
-  "pgn.Alert.closeLabel": "Entlassen"
+  "pgn.Alert.closeLabel": "Entlassung"
 }
