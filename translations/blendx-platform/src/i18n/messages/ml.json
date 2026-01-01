@@ -66,6 +66,8 @@
   "staff.dashboard.menu.learningPathway": "പഠന പാത",
   "staff.dashboard.menu.skillsAndCompetencies": "വൈദഗ്ധ്യവും കഴിവുകളും",
   "staff.dashboard.menu.skillManagement": "നൈപുണ്യ പരിപാലനം",
+  "staff.dashboard.menu.liveSessions": "തത്സമയ സെഷനുകൾ",
+  "staff.dashboard.menu.couponManagement": "കൂപ്പൺ മാനേജ്മെന്റ്",
   "mobile.navbar.home": "ഹോം",
   "mobile.navbar.discover": "കണ്ടെത്തുക",
   "mobile.navbar.my-learning": "എന്റെ പഠനം",

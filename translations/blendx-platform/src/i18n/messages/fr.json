@@ -66,6 +66,8 @@
   "staff.dashboard.menu.learningPathway": "Parcours d’apprentissage",
   "staff.dashboard.menu.skillsAndCompetencies": "Compétences et compétences",
   "staff.dashboard.menu.skillManagement": "Gestion des compétences",
+  "staff.dashboard.menu.liveSessions": "Live Sessions",
+  "staff.dashboard.menu.couponManagement": "Gestion des coupons",
   "mobile.navbar.home": "Accueil",
   "mobile.navbar.discover": "Découvrir",
   "mobile.navbar.my-learning": "Mon apprentissage",
