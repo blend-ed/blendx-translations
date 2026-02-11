@@ -9,6 +9,9 @@
   "cart.item.badge.program": "Программа",
   "cart.item.button.remove": "Удалять",
   "cart.item.button.wishlist": "Переместить в список желаний",
+  "error.page.send.crash.data.button.text": "Отправьте эти данные о сбое.",
+  "error.page.sending.button.text": "Отправка...",
+  "error.page.show.trace": "Показать всю трассировку",
   "learner.dashboard.menu.analytics": "Прогресс",
   "learner.dashboard.page.discover": "Обнаружить",
   "learner.dashboard.page.discover.all": "Все",
@@ -77,5 +80,7 @@
   "staff.pathway.menu.learningPath": "Путь обучения",
   "staff.pathway.menu.microLearning": "Микрообучение",
   "staff.pathway.menu.people": "Люди",
-  "staff.pathway.menu.skill": "Навык"
+  "staff.pathway.menu.skill": "Навык",
+  "unexpected.error.button.text": "Попробуйте еще раз",
+  "unexpected.error.message.text": "Произошла непредвиденная ошибка. Пожалуйста, нажмите кнопку ниже, чтобы обновить страницу."
 }

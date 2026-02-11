@@ -402,6 +402,8 @@
   "masquerade-widget.dropdown.label": "Ver este curso como",
   "masquerade-widget.dropdown.specificStudentPlaceholder": "Estudiante específico...",
   "masquerade-widget.insights": "Perspectivas",
+  "masquerade-widget.learnerDropdown.loading": "Cargando...",
+  "masquerade-widget.learnerDropdown.noLearnersFound": "No se encontraron estudiantes",
   "masquerade-widget.studio": "Estudio",
   "masquerade-widget.unableToGetMasqueradeOptions": "No se pueden obtener opciones de mascarada",
   "masquerade-widget.userName.error.generic": "Se ha producido un error. Inténtelo de nuevo.",

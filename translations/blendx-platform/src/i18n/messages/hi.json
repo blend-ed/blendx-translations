@@ -9,6 +9,9 @@
   "cart.item.badge.program": "कार्यक्रम",
   "cart.item.button.remove": "निकालना",
   "cart.item.button.wishlist": "इच्छा सूची की ओर बदें",
+  "error.page.send.crash.data.button.text": "इस क्रैश डेटा को भेजें",
+  "error.page.sending.button.text": "भेजा जा रहा है...",
+  "error.page.show.trace": "संपूर्ण ट्रेस दिखाएँ",
   "learner.dashboard.menu.analytics": "प्रगति",
   "learner.dashboard.page.discover": "खोज करना",
   "learner.dashboard.page.discover.all": "सभी",
@@ -77,5 +80,7 @@
   "staff.pathway.menu.learningPath": "शिक्षण मार्ग",
   "staff.pathway.menu.microLearning": "माइक्रो लर्निंग",
   "staff.pathway.menu.people": "लोग",
-  "staff.pathway.menu.skill": "कौशल"
+  "staff.pathway.menu.skill": "कौशल",
+  "unexpected.error.button.text": "पुनः प्रयास करें",
+  "unexpected.error.message.text": "एक अप्रत्याशित त्रुटि उत्पन्न हुई। कृपया पृष्ठ को रीफ़्रेश करने के लिए नीचे दिए गए बटन पर क्लिक करें।"
 }

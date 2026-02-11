@@ -9,6 +9,9 @@
   "cart.item.badge.program": "Programm",
   "cart.item.button.remove": "Entfernen",
   "cart.item.button.wishlist": "Zur Wunschliste hinzufügen",
+  "error.page.send.crash.data.button.text": "Senden Sie diese Absturzdaten",
+  "error.page.sending.button.text": "Wird gesendet...",
+  "error.page.show.trace": "Vollständigen Ablauf anzeigen",
   "learner.dashboard.menu.analytics": "Fortschritt",
   "learner.dashboard.page.discover": "Entdecken",
   "learner.dashboard.page.discover.all": "Alle",
@@ -77,5 +80,7 @@
   "staff.pathway.menu.learningPath": "Lernpfad",
   "staff.pathway.menu.microLearning": "Mikrolernen",
   "staff.pathway.menu.people": "Menschen",
-  "staff.pathway.menu.skill": "Fähigkeit"
+  "staff.pathway.menu.skill": "Fähigkeit",
+  "unexpected.error.button.text": "Versuchen Sie es erneut",
+  "unexpected.error.message.text": "Es ist ein unerwarteter Fehler aufgetreten. Bitte klicken Sie auf die Schaltfläche unten, um die Seite neu zu laden."
 }

@@ -402,6 +402,8 @@
   "masquerade-widget.dropdown.label": "इस कोर्स को इस रूप में देखें",
   "masquerade-widget.dropdown.specificStudentPlaceholder": "विशिष्ट छात्र...",
   "masquerade-widget.insights": "इनसाइट्स",
+  "masquerade-widget.learnerDropdown.loading": "लोड हो रहा है...",
+  "masquerade-widget.learnerDropdown.noLearnersFound": "कोई शिक्षार्थी नहीं मिला",
   "masquerade-widget.studio": "STUDIO",
   "masquerade-widget.unableToGetMasqueradeOptions": "छद्मवेश विकल्प प्राप्त करने में असमर्थ",
   "masquerade-widget.userName.error.generic": "एक त्रुटि हुई है। कृपया फिर से प्रयास करें।",

@@ -402,6 +402,8 @@
   "masquerade-widget.dropdown.label": "ഈ കോഴ്‌സ് ഇങ്ങനെ കാണുക",
   "masquerade-widget.dropdown.specificStudentPlaceholder": "പ്രത്യേക വിദ്യാർത്ഥി...",
   "masquerade-widget.insights": "ഉൾക്കാഴ്ചകൾ",
+  "masquerade-widget.learnerDropdown.loading": "ലോഡ് ചെയ്യുന്നു...",
+  "masquerade-widget.learnerDropdown.noLearnersFound": "പഠിതാക്കളെയൊന്നും കണ്ടെത്തിയില്ല",
   "masquerade-widget.studio": "സ്റ്റുഡിയോ",
   "masquerade-widget.unableToGetMasqueradeOptions": "മാസ്‌കറേഡ് ഓപ്ഷനുകൾ ലഭിക്കുന്നില്ല.",
   "masquerade-widget.userName.error.generic": "ഒരു പിശക് സംഭവിച്ചു; ദയവായി വീണ്ടും ശ്രമിക്കുക.",

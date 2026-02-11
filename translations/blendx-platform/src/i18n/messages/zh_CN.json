@@ -9,6 +9,9 @@
   "cart.item.badge.program": "程序",
   "cart.item.button.remove": "消除",
   "cart.item.button.wishlist": "加入愿望清单",
+  "error.page.send.crash.data.button.text": "发送此崩溃数据",
+  "error.page.sending.button.text": "正在发送...",
+  "error.page.show.trace": "显示完整轨迹",
   "learner.dashboard.menu.analytics": "进步",
   "learner.dashboard.page.discover": "发现",
   "learner.dashboard.page.discover.all": "全部",
@@ -77,5 +80,7 @@
   "staff.pathway.menu.learningPath": "学习路径",
   "staff.pathway.menu.microLearning": "微学习",
   "staff.pathway.menu.people": "人们",
-  "staff.pathway.menu.skill": "技能"
+  "staff.pathway.menu.skill": "技能",
+  "unexpected.error.button.text": "再试一次",
+  "unexpected.error.message.text": "发生意外错误。请点击下方按钮刷新页面。"
 }

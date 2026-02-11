@@ -402,6 +402,8 @@
   "masquerade-widget.dropdown.label": "Consultez ce cours comme",
   "masquerade-widget.dropdown.specificStudentPlaceholder": "Étudiant spécifique...",
   "masquerade-widget.insights": "Connaissances",
+  "masquerade-widget.learnerDropdown.loading": "Chargement...",
+  "masquerade-widget.learnerDropdown.noLearnersFound": "Aucun apprenant trouvé",
   "masquerade-widget.studio": "Studio",
   "masquerade-widget.unableToGetMasqueradeOptions": "Impossible d'obtenir les options de bal masqué",
   "masquerade-widget.userName.error.generic": "Une erreur s'est produite ; veuillez réessayer.",

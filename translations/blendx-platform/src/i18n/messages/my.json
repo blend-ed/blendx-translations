@@ -9,6 +9,9 @@
   "cart.item.badge.program": "အစီအစဉ်",
   "cart.item.button.remove": "ဖယ်ရှားပါ",
   "cart.item.button.wishlist": "လိုချင်သောစာရင်းသို့ ရွှေ့ပါ",
+  "error.page.send.crash.data.button.text": "ဤပျက်စီးမှုဒေတာကို ပို့ပါ",
+  "error.page.sending.button.text": "ပို့နေသည်...",
+  "error.page.show.trace": "တစ်ခုလုံးသော လမ်းကြောင်းကို ပြပါ",
   "learner.dashboard.menu.analytics": "တိုးတက်မှု",
   "learner.dashboard.page.discover": "ရှာဖွေတွေ့ရှိပါ",
   "learner.dashboard.page.discover.all": "အားလုံး",
@@ -77,5 +80,7 @@
   "staff.pathway.menu.learningPath": "သင်ယူမှုလမ်းကြောင်း",
   "staff.pathway.menu.microLearning": "အသေးစားသင်ယူမှု",
   "staff.pathway.menu.people": "လူတွေ",
-  "staff.pathway.menu.skill": "ကျွမ်းကျင်မှု"
+  "staff.pathway.menu.skill": "ကျွမ်းကျင်မှု",
+  "unexpected.error.button.text": "ထပ်ကြိုးစားပါ",
+  "unexpected.error.message.text": "မမျှော်လင့်ထားသော အမှားတစ်ခု ဖြစ်ပွားခဲ့သည်။ စာမျက်နှာကို ပြန်လည်စတင်ရန် အောက်ပါခလုတ်ကို နှိပ်ပါ။"
 }

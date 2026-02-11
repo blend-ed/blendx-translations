@@ -402,6 +402,8 @@
   "masquerade-widget.dropdown.label": "このコースを表示する",
   "masquerade-widget.dropdown.specificStudentPlaceholder": "特定の学生...",
   "masquerade-widget.insights": "洞察",
+  "masquerade-widget.learnerDropdown.loading": "読み込み中...",
+  "masquerade-widget.learnerDropdown.noLearnersFound": "学習者が見つかりません",
   "masquerade-widget.studio": "スタジオ",
   "masquerade-widget.unableToGetMasqueradeOptions": "マスカレードオプションを取得できません",
   "masquerade-widget.userName.error.generic": "エラーが発生しました。もう一度お試しください。",

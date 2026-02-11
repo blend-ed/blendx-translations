@@ -402,6 +402,8 @@
   "masquerade-widget.dropdown.label": "이 강좌를 다음과 같이 보기",
   "masquerade-widget.dropdown.specificStudentPlaceholder": "특정 학생...",
   "masquerade-widget.insights": "인사이트",
+  "masquerade-widget.learnerDropdown.loading": "로딩 중...",
+  "masquerade-widget.learnerDropdown.noLearnersFound": "학습자를 찾을 수 없습니다.",
   "masquerade-widget.studio": "사진관",
   "masquerade-widget.unableToGetMasqueradeOptions": "가면무도회 옵션을 가져올 수 없습니다",
   "masquerade-widget.userName.error.generic": "오류가 발생했습니다. 다시 시도해 주세요.",

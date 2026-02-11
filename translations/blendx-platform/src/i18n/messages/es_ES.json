@@ -9,6 +9,9 @@
   "cart.item.badge.program": "Programa",
   "cart.item.button.remove": "Eliminar",
   "cart.item.button.wishlist": "Mover a la lista de deseos",
+  "error.page.send.crash.data.button.text": "Envía estos datos de accidente",
+  "error.page.sending.button.text": "Envío...",
+  "error.page.show.trace": "Mostrar el seguimiento completo",
   "learner.dashboard.menu.analytics": "Progreso",
   "learner.dashboard.page.discover": "Descubrir",
   "learner.dashboard.page.discover.all": "Todo",
@@ -77,5 +80,7 @@
   "staff.pathway.menu.learningPath": "Ruta de aprendizaje",
   "staff.pathway.menu.microLearning": "Microaprendizaje",
   "staff.pathway.menu.people": "Gente",
-  "staff.pathway.menu.skill": "Habilidad"
+  "staff.pathway.menu.skill": "Habilidad",
+  "unexpected.error.button.text": "Intentar otra vez",
+  "unexpected.error.message.text": "Se produjo un error inesperado. Haga clic en el botón de abajo para actualizar la página."
 }

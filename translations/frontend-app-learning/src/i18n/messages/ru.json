@@ -402,6 +402,8 @@
   "masquerade-widget.dropdown.label": "Просмотреть этот курс как",
   "masquerade-widget.dropdown.specificStudentPlaceholder": "Конкретный студент...",
   "masquerade-widget.insights": "Аналитические выводы",
+  "masquerade-widget.learnerDropdown.loading": "Загрузка...",
+  "masquerade-widget.learnerDropdown.noLearnersFound": "Учащиеся не найдены",
   "masquerade-widget.studio": "Студия",
   "masquerade-widget.unableToGetMasqueradeOptions": "Не удалось получить варианты маскарада.",
   "masquerade-widget.userName.error.generic": "Произошла ошибка; пожалуйста, попробуйте еще раз.",

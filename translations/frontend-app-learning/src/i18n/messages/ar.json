@@ -402,6 +402,8 @@
   "masquerade-widget.dropdown.label": "اطلع على هذه الدورة التدريبية كـ",
   "masquerade-widget.dropdown.specificStudentPlaceholder": "طالب معين...",
   "masquerade-widget.insights": "رؤى",
+  "masquerade-widget.learnerDropdown.loading": "تحميل...",
+  "masquerade-widget.learnerDropdown.noLearnersFound": "لم يتم العثور على متعلمين",
   "masquerade-widget.studio": "استوديو",
   "masquerade-widget.unableToGetMasqueradeOptions": "تعذر الحصول على خيارات الحفلات التنكرية",
   "masquerade-widget.userName.error.generic": "حدث خطأ؛ يرجى المحاولة مرة أخرى.",

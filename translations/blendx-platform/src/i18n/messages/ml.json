@@ -9,6 +9,9 @@
   "cart.item.badge.program": "പ്രോഗ്രാം",
   "cart.item.button.remove": "നീക്കം ചെയ്യുക",
   "cart.item.button.wishlist": "വിഷ്‌ലിസ്റ്റിലേക്ക് നീക്കുക",
+  "error.page.send.crash.data.button.text": "ഈ ക്രാഷ് ഡാറ്റ അയയ്ക്കുക",
+  "error.page.sending.button.text": "അയയ്ക്കുന്നു...",
+  "error.page.show.trace": "മുഴുവൻ ട്രെയ്‌സും കാണിക്കുക",
   "learner.dashboard.menu.analytics": "പുരോഗതി",
   "learner.dashboard.page.discover": "കണ്ടെത്തുക",
   "learner.dashboard.page.discover.all": "എല്ലാം",
@@ -77,5 +80,7 @@
   "staff.pathway.menu.learningPath": "പഠന പാത",
   "staff.pathway.menu.microLearning": "മൈക്രോ ലേണിംഗ്",
   "staff.pathway.menu.people": "ആളുകൾ",
-  "staff.pathway.menu.skill": "കഴിവ്"
+  "staff.pathway.menu.skill": "കഴിവ്",
+  "unexpected.error.button.text": "വീണ്ടും ശ്രമിക്കുക",
+  "unexpected.error.message.text": "ഒരു അപ്രതീക്ഷിത പിശക് സംഭവിച്ചു. പേജ് പുതുക്കാൻ താഴെയുള്ള ബട്ടൺ ക്ലിക്കുചെയ്യുക."
 }

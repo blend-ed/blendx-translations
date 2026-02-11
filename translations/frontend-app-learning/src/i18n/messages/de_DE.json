@@ -402,6 +402,8 @@
   "masquerade-widget.dropdown.label": "Diesen Kurs ansehen als",
   "masquerade-widget.dropdown.specificStudentPlaceholder": "Bestimmter Student...",
   "masquerade-widget.insights": "Einblicke",
+  "masquerade-widget.learnerDropdown.loading": "Laden...",
+  "masquerade-widget.learnerDropdown.noLearnersFound": "Keine Lernenden gefunden",
   "masquerade-widget.studio": "Studio",
   "masquerade-widget.unableToGetMasqueradeOptions": "Maskenball-Optionen können nicht abgerufen werden",
   "masquerade-widget.userName.error.generic": "Es ist ein Fehler aufgetreten; bitte versuchen Sie es erneut.",

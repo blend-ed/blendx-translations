@@ -402,6 +402,8 @@
   "masquerade-widget.dropdown.label": "将此课程视为",
   "masquerade-widget.dropdown.specificStudentPlaceholder": "特定学生...",
   "masquerade-widget.insights": "洞察",
+  "masquerade-widget.learnerDropdown.loading": "加载中...",
+  "masquerade-widget.learnerDropdown.noLearnersFound": "未找到学习者",
   "masquerade-widget.studio": "工作室",
   "masquerade-widget.unableToGetMasqueradeOptions": "无法获取化装舞会选项",
   "masquerade-widget.userName.error.generic": "发生错误，请重试。",

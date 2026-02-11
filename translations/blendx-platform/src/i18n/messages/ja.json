@@ -9,6 +9,9 @@
   "cart.item.badge.program": "プログラム",
   "cart.item.button.remove": "取り除く",
   "cart.item.button.wishlist": "ウィッシュリストに移動",
+  "error.page.send.crash.data.button.text": "このクラッシュデータを送信",
+  "error.page.sending.button.text": "送信中...",
+  "error.page.show.trace": "トレース全体を表示",
   "learner.dashboard.menu.analytics": "進捗",
   "learner.dashboard.page.discover": "発見する",
   "learner.dashboard.page.discover.all": "全て",
@@ -77,5 +80,7 @@
   "staff.pathway.menu.learningPath": "学習パス",
   "staff.pathway.menu.microLearning": "マイクロラーニング",
   "staff.pathway.menu.people": "人々",
-  "staff.pathway.menu.skill": "スキル"
+  "staff.pathway.menu.skill": "スキル",
+  "unexpected.error.button.text": "もう一度やり直してください",
+  "unexpected.error.message.text": "予期しないエラーが発生しました。下のボタンをクリックしてページを更新してください。"
 }

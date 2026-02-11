@@ -9,6 +9,9 @@
   "cart.item.badge.program": "프로그램",
   "cart.item.button.remove": "제거하다",
   "cart.item.button.wishlist": "위시리스트로 이동",
+  "error.page.send.crash.data.button.text": "이 충돌 데이터를 보내주세요",
+  "error.page.sending.button.text": "배상...",
+  "error.page.show.trace": "전체 추적 결과를 표시합니다",
   "learner.dashboard.menu.analytics": "진전",
   "learner.dashboard.page.discover": "발견하다",
   "learner.dashboard.page.discover.all": "모두",
@@ -77,5 +80,7 @@
   "staff.pathway.menu.learningPath": "학습 경로",
   "staff.pathway.menu.microLearning": "마이크로 러닝",
   "staff.pathway.menu.people": "사람들",
-  "staff.pathway.menu.skill": "기능"
+  "staff.pathway.menu.skill": "기능",
+  "unexpected.error.button.text": "다시 시도해 보세요",
+  "unexpected.error.message.text": "예기치 않은 오류가 발생했습니다. 아래 버튼을 클릭하여 페이지를 새로고침하세요."
 }

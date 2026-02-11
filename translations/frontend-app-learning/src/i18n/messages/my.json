@@ -402,6 +402,8 @@
   "masquerade-widget.dropdown.label": "ဤသင်တန်းကို ဤအတိုင်းကြည့်ပါ",
   "masquerade-widget.dropdown.specificStudentPlaceholder": "တိကျသော ကျောင်းသား...",
   "masquerade-widget.insights": "ထိုးထွင်းသိမြင်မှုများ",
+  "masquerade-widget.learnerDropdown.loading": "တင်နေသည်...",
+  "masquerade-widget.learnerDropdown.noLearnersFound": "သင်ယူသူ မတွေ့ပါ",
   "masquerade-widget.studio": "စတူဒီယို",
   "masquerade-widget.unableToGetMasqueradeOptions": "မျက်နှာဖုံးစွပ် ရွေးချယ်မှုများကို ရယူ၍မရပါ",
   "masquerade-widget.userName.error.generic": "အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့ပါသည်။ ထပ်မံကြိုးစားပါ။",

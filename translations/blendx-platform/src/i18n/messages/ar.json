@@ -9,6 +9,9 @@
   "cart.item.badge.program": "برنامج",
   "cart.item.button.remove": "يزيل",
   "cart.item.button.wishlist": "أضف إلى قائمة الأمنيات",
+  "error.page.send.crash.data.button.text": "أرسل بيانات هذا العطل",
+  "error.page.sending.button.text": "إرسال...",
+  "error.page.show.trace": "عرض التتبع الكامل",
   "learner.dashboard.menu.analytics": "تقدم",
   "learner.dashboard.page.discover": "يكتشف",
   "learner.dashboard.page.discover.all": "الجميع",
@@ -77,5 +80,7 @@
   "staff.pathway.menu.learningPath": "مسار التعلم",
   "staff.pathway.menu.microLearning": "التعلم المصغر",
   "staff.pathway.menu.people": "الناس",
-  "staff.pathway.menu.skill": "مهارة"
+  "staff.pathway.menu.skill": "مهارة",
+  "unexpected.error.button.text": "حاول ثانية",
+  "unexpected.error.message.text": "حدث خطأ غير متوقع. يرجى النقر على الزر أدناه لتحديث الصفحة."
 }

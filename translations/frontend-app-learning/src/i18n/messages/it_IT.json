@@ -402,6 +402,8 @@
   "masquerade-widget.dropdown.label": "Visualizza questo corso come",
   "masquerade-widget.dropdown.specificStudentPlaceholder": "Studente specifico...",
   "masquerade-widget.insights": "Approfondimenti",
+  "masquerade-widget.learnerDropdown.loading": "Caricamento...",
+  "masquerade-widget.learnerDropdown.noLearnersFound": "Nessuno studente trovato",
   "masquerade-widget.studio": "Studio",
   "masquerade-widget.unableToGetMasqueradeOptions": "Impossibile ottenere le opzioni di mascheramento",
   "masquerade-widget.userName.error.generic": "Si è verificato un errore. Riprova.",
