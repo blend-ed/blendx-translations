@@ -1034,7 +1034,7 @@
   "course-authoring.course-team.member.button.delete": "حذف المستخدم",
   "course-authoring.course-team.member.button.remove": "إزالة صلاحيات المسؤول",
   "course-authoring.course-team.member.hint": "قم بترقية عضو آخر إلى منصب إداري لإزالة صلاحياتك الإدارية.",
-  "course-authoring.course-team.member.role.admin": "مسؤل",
+  "course-authoring.course-team.member.role.admin": "مسؤول",
   "course-authoring.course-team.member.role.staff": "طاقم عمل",
   "course-authoring.course-team.member.role.you": "أنت!",
   "course-authoring.course-team.permissions.addButton": "يضيف",

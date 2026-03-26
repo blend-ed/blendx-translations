@@ -3094,7 +3094,7 @@ msgstr "كل رمز يشمل مساقًا واحدًا، ويمكن استخدا
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:64
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.txt:21
 msgid "You are responsible for distributing codes to your learners."
-msgstr "أنت مسؤل عن توزيع رموز القسائم لمتعلّميك."
+msgstr "أنت مسؤول عن توزيع رموز القسائم لمتعلّميك."
 
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:65
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.txt:22
