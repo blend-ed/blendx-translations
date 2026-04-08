@@ -1,5 +1,10 @@
 {
   "account.page.title": "အကောင့် | {siteName}",
+  "account.profile.card.background.banner.alt": "ပရိုဖိုင်နောက်ခံ ဘန်နာ",
+  "account.profile.card.edit.profile": "ပရိုဖိုင်ကို တည်းဖြတ်ပါ",
+  "account.profile.card.learner.badge": "သင်ယူသူ",
+  "account.profile.card.picture.alt": "ပရိုဖိုင်ပုံ",
+  "account.profile.card.view.profile": "ပရိုဖိုင်ကိုကြည့်ရန်",
   "account.settings.banner.beta.language": "သင်သည် သင်၏ဘာသာစကားကို {beta_language} သို့ သတ်မှတ်ထားပြီးဖြစ်ပြီး၊ လက်ရှိတွင် အပြည့်အဝဘာသာပြန်ဆိုထားခြင်း မရှိပါ။ Transifex အသိုင်းအဝိုင်းတွင် ပါဝင်ခြင်းနှင့် {beta_language} ပြောဆိုသော သင်ယူသူများအတွက် အင်္ဂလိပ်ဘာသာမှ ဘာသာပြန်ဆိုချက်များကို ထည့်သွင်းခြင်းဖြင့် ဤဘာသာစကားကို အပြည့်အဝဘာသာပြန်ဆိုရန် ကျွန်ုပ်တို့အား ကူညီပေးနိုင်ပါသည်။",
   "account.settings.banner.beta.language.action.help.translate": "{beta_language} သို့ ဘာသာပြန်ဆိုရန် ကူညီပေးပါ",
   "account.settings.banner.beta.language.action.switch.back": "{previous_language} သို့ ပြန်ပြောင်းပါ",

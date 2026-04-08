@@ -1,5 +1,10 @@
 {
   "account.page.title": "അക്കൗണ്ട് | {സൈറ്റ്നെയിം}",
+  "account.profile.card.background.banner.alt": "പ്രൊഫൈൽ പശ്ചാത്തല ബാനർ",
+  "account.profile.card.edit.profile": "പ്രൊഫൈൽ എഡിറ്റ് ചെയ്യുക",
+  "account.profile.card.learner.badge": "പഠിതാവ്",
+  "account.profile.card.picture.alt": "പ്രൊഫൈൽ ചിത്രം",
+  "account.profile.card.view.profile": "പ്രൊഫൈൽ കാണുക",
   "account.settings.banner.beta.language": "നിങ്ങളുടെ ഭാഷ {beta_language} ആയി സജ്ജീകരിച്ചിരിക്കുന്നു, അത് നിലവിൽ പൂർണ്ണമായി വിവർത്തനം ചെയ്തിട്ടില്ല. Transifex കമ്മ്യൂണിറ്റിയിൽ ചേരുന്നതിലൂടെയും {beta_language} സംസാരിക്കുന്ന പഠിതാക്കൾക്കായി ഇംഗ്ലീഷിൽ നിന്നുള്ള വിവർത്തനങ്ങൾ ചേർക്കുന്നതിലൂടെയും നിങ്ങൾക്ക് ഈ ഭാഷ പൂർണ്ണമായും വിവർത്തനം ചെയ്യാൻ ഞങ്ങളെ സഹായിക്കാനാകും.",
   "account.settings.banner.beta.language.action.help.translate": "{beta_language} ഭാഷയിലേക്ക് വിവർത്തനം ചെയ്യാൻ സഹായിക്കുക",
   "account.settings.banner.beta.language.action.switch.back": "{previous_language}-ലേക്ക് തിരികെ മാറുക",

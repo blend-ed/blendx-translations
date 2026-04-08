@@ -1,5 +1,10 @@
 {
   "account.page.title": "الحساب | {اسم الموقع}",
+  "account.profile.card.background.banner.alt": "بانر خلفية الملف الشخصي",
+  "account.profile.card.edit.profile": "تعديل الملف الشخصي",
+  "account.profile.card.learner.badge": "متعلم",
+  "account.profile.card.picture.alt": "صورة الملف الشخصي",
+  "account.profile.card.view.profile": "عرض الملف الشخصي",
   "account.settings.banner.beta.language": "لقد اخترت لغتك {beta_language}، وهي غير مترجمة بالكامل حاليًا. يمكنك مساعدتنا في ترجمة هذه اللغة بالكامل من خلال الانضمام إلى مجتمع Transifex وإضافة ترجمات من الإنجليزية للمتعلمين الذين يتحدثون {beta_language}.",
   "account.settings.banner.beta.language.action.help.translate": "ساعد في الترجمة إلى {beta_language}",
   "account.settings.banner.beta.language.action.switch.back": "العودة إلى {اللغة_السابقة}",

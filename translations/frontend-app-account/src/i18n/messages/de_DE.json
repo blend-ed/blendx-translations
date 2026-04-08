@@ -1,5 +1,10 @@
 {
   "account.page.title": "Konto | {siteName}",
+  "account.profile.card.background.banner.alt": "Profilhintergrundbanner",
+  "account.profile.card.edit.profile": "Profil bearbeiten",
+  "account.profile.card.learner.badge": "Lerner",
+  "account.profile.card.picture.alt": "Profilbild",
+  "account.profile.card.view.profile": "Profil ansehen",
   "account.settings.banner.beta.language": "Sie haben als Sprache {beta_language} ausgewählt, die derzeit noch nicht vollständig übersetzt ist. Sie können uns bei der vollständigen Übersetzung helfen, indem Sie der Transifex-Community beitreten und Übersetzungen aus dem Englischen für Lernende der Sprache {beta_language} hinzufügen.",
   "account.settings.banner.beta.language.action.help.translate": "Hilf mit, in {beta_language} zu übersetzen",
   "account.settings.banner.beta.language.action.switch.back": "Zurück zu {vorherige_Sprache}",

@@ -1,5 +1,10 @@
 {
   "account.page.title": "Аккаунт | {siteName}",
+  "account.profile.card.background.banner.alt": "Фоновый баннер профиля",
+  "account.profile.card.edit.profile": "Редактировать профиль",
+  "account.profile.card.learner.badge": "Учащийся",
+  "account.profile.card.picture.alt": "Фотография профиля",
+  "account.profile.card.view.profile": "Просмотреть профиль",
   "account.settings.banner.beta.language": "Вы выбрали язык {beta_language}, который в настоящее время не полностью переведен. Вы можете помочь нам полностью перевести этот язык, присоединившись к сообществу Transifex и добавив переводы с английского для учащихся, говорящих на языке {beta_language}.",
   "account.settings.banner.beta.language.action.help.translate": "Помогите перевести на {бета-язык}",
   "account.settings.banner.beta.language.action.switch.back": "Вернуться к {предыдущий_язык}",

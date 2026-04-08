@@ -1,5 +1,10 @@
 {
   "account.page.title": "アカウント | {siteName}",
+  "account.profile.card.background.banner.alt": "プロフィール背景バナー",
+  "account.profile.card.edit.profile": "プロフィールを編集",
+  "account.profile.card.learner.badge": "学習者",
+  "account.profile.card.picture.alt": "プロフィール写真",
+  "account.profile.card.view.profile": "プロフィールを見る",
   "account.settings.banner.beta.language": "言語を{beta_language}に設定されていますが、現在完全に翻訳されていません。Transifexコミュニティに参加して、{beta_language}を話す学習者向けに英語からの翻訳を追加することで、この言語の完全翻訳にご協力いただけます。",
   "account.settings.banner.beta.language.action.help.translate": "{beta_language}への翻訳にご協力ください",
   "account.settings.banner.beta.language.action.switch.back": "{previous_language} に戻る",

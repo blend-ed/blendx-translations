@@ -1,5 +1,10 @@
 {
   "account.page.title": "账户 | {siteName}",
+  "account.profile.card.background.banner.alt": "个人资料背景横幅",
+  "account.profile.card.edit.profile": "编辑个人资料",
+  "account.profile.card.learner.badge": "学习者",
+  "account.profile.card.picture.alt": "头像",
+  "account.profile.card.view.profile": "查看个人资料",
   "account.settings.banner.beta.language": "您已将语言设置为 {beta_language}，该语言目前尚未完全翻译。您可以加入 Transifex 社区，为使用 {beta_language} 的学习者添加从英语翻译，帮助我们完善该语言的翻译。",
   "account.settings.banner.beta.language.action.help.translate": "帮助翻译成 {beta_language}",
   "account.settings.banner.beta.language.action.switch.back": "返回上一语言",

@@ -1,5 +1,10 @@
 {
   "account.page.title": "खाता | {साइट का नाम}",
+  "account.profile.card.background.banner.alt": "प्रोफ़ाइल पृष्ठभूमि बैनर",
+  "account.profile.card.edit.profile": "प्रोफ़ाइल संपादित करें",
+  "account.profile.card.learner.badge": "शिक्षार्थी",
+  "account.profile.card.picture.alt": "प्रोफ़ाइल फोटो",
+  "account.profile.card.view.profile": "प्रोफ़ाइल देखें",
   "account.settings.banner.beta.language": "आपने अपनी भाषा {beta_language} निर्धारित की है, जिसका अभी पूर्ण अनुवाद नहीं हुआ है। आप ट्रांसिफ़ेक्स समुदाय में शामिल होकर और {beta_language} बोलने वाले शिक्षार्थियों के लिए अंग्रेज़ी से अनुवाद जोड़कर इस भाषा का पूर्ण अनुवाद करने में हमारी सहायता कर सकते हैं।",
   "account.settings.banner.beta.language.action.help.translate": "{beta_language} में अनुवाद करने में सहायता करें",
   "account.settings.banner.beta.language.action.switch.back": "वापस {previous_language} पर स्विच करें",
