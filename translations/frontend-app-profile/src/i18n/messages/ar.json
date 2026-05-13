@@ -10,7 +10,7 @@
   "passport.proficiency.expert": "خبير",
   "passport.proficiency.intermediate": "متوسط",
   "passport.public": "جواز المهارات العامة",
-  "passport.public.info": "هذا جواز مهارات عام. اختار المستخدم مشاركة إنجازاته التعليمية علنًا.",
+  "passport.public.info": "هذا جواز مهارات عام. اختار المستخدم مشاركة إنجازاته التدريبية علنًا.",
   "passport.userNotFound": "المستخدم غير موجود: @{username}",
   "passport.userNotFound.description": "لم نتمكن من العثور على جواز مهارات لهذا المستخدم. ربما لم يقم بإنشاء جواز مهارات عام بعد، أو قد يكون اسم المستخدم غير صحيح.",
   "profile.accountSettings": "إعدادات الحساب",
