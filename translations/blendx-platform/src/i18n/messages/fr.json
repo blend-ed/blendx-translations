@@ -1,6 +1,7 @@
 {
   "admin.dashboard.menu.analytics": "Analytique",
   "admin.dashboard.menu.home": "Maison",
+  "admin.dashboard.menu.notificationsManager": "Gestionnaire de notifications",
   "admin.dashboard.menu.organizations": "Organisations",
   "admin.dashboard.menu.support": "Soutien",
   "cart.drawer.title": "Chariot",

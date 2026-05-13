@@ -1,6 +1,7 @@
 {
   "admin.dashboard.menu.analytics": "Аналитика",
   "admin.dashboard.menu.home": "Дом",
+  "admin.dashboard.menu.notificationsManager": "Менеджер уведомлений",
   "admin.dashboard.menu.organizations": "Организации",
   "admin.dashboard.menu.support": "Поддерживать",
   "cart.drawer.title": "Тележка",

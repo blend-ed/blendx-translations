@@ -1,6 +1,7 @@
 {
   "admin.dashboard.menu.analytics": "해석학",
   "admin.dashboard.menu.home": "집",
+  "admin.dashboard.menu.notificationsManager": "알림 관리자",
   "admin.dashboard.menu.organizations": "조직",
   "admin.dashboard.menu.support": "지원하다",
   "cart.drawer.title": "카트",
