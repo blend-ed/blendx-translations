@@ -1305,7 +1305,6 @@
   "course-authoring.course-unit.paste-notification.has-new-files.title": "New file(s) added to Files & Uploads.",
   "course-authoring.course-unit.paste-notification.has-new-files.description": "The following required files were imported to this course:",
   "course-authoring.course-unit.paste-notification.has-new-files.button.text": "View files",
-  "pgn.DataTable.FilterStatus.removeFilter": "Remove this filter",
   "pgn.DataTable.FilterStatus.clearFiltersText": "Clear filters",
   "course-authoring.video-uploads.file-info.infoTab.title": "Info",
   "course-authoring.video-uploads.file-info.transcriptTab.title": "Transcript ({transcriptCount})",
